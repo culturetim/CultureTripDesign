@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "393AD04D-BA8F-48C9-AC5B-06F99CB76658",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FEBAAF91-E93F-4A3B-9F29-9C3D803E2659"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "861308A1-284E-4A30-904A-5B4F315F29F4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9DBAAA91-B7D1-4C37-9C50-E03C713322DA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C3FA153-16E5-4572-BC8B-5CC1DB3F03D4"
+    }
+  ],
+  "name": "Google Pixel: Android Navigation Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
