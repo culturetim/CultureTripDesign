@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AA1695EF-4693-4D10-B26A-5C733CCF1D49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 328,
+    "width": 296,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "1️⃣ Medium Listing - Desktop",
+  "nameIsFixed": true,
+  "overrides": {
+    "95D9FC28-7BC3-4243-A50F-9A42418D44DD": {
+      "A3D8C496-EE8A-4094-AB38-59B244CBFA1E": "FRANCE",
+      "D194B310-1DCC-4A5C-86C0-71989A274FE4": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9a65cb0c1ca41479190ab87564d1ebea13ebc8e2",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "E5748A27-0F41-44B2-A0C7-AE78B3C48BF2": {
+      "20F177A4-15FF-4078-A9FD-48FEF239C29E": "The Story Behind France's Craze for Bouldering",
+      "6BAB61D2-CA50-4840-A92B-B89053D12A40": "The Story Behind France's Craze for Bouldering",
+      "DDC3B8A2-1408-4E3D-B16B-B49FD9E352B1": "The Story Behind France's Craze for Bouldering",
+      "E636CE1B-217B-4F8B-8A1D-8399D5861B0A": "The Story Behind France's Craze for Bouldering",
+      "symbolID": "DFC4208C-77AD-42AC-8564-6E42FB527187"
+    }
+  },
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B1E71CC1-0C83-454A-A2CB-159FF4AB3330",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

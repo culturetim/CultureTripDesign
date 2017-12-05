@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7AFFB63B-15EB-4963-AAC8-91F35874281D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 240,
+    "width": 340,
+    "x": 10,
+    "y": 586
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 3,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Feature Listing - Desktop",
+  "nameIsFixed": false,
+  "overrides": {
+    "1A3925E3-9833-4C43-AECC-F125B9B69B0A": "ITALY",
+    "8617E210-D021-4255-A307-29994A542697": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/316fb6b7f628b7a84a683b1e90b0a516e626bef6",
+      "_ref_class": "MSImageData"
+    },
+    "98301B53-4182-45C2-9F87-49574BF5BFBA": {
+      "symbolID": ""
+    },
+    "E1564A7D-6A61-441F-B2EA-9B54C5F255AD": {
+      "510C07CA-CD3B-4FE1-9A43-1FC93B1B6AB1": "This Cat Sanctuary in Old Roman Ruins Is a Must-Visit This Must See",
+      "83B229C8-0FAD-4D33-B6F5-594252FC5BCA": "ITALY",
+      "BE1C71F7-CD79-402A-BF35-97AFBC76818E": "This Cat Sanctuary in Old Roman Ruins Is a Must-Visit This Must See",
+      "C04DF0A7-2BD6-4AE5-AE84-62A280FFDB79": "ITALY",
+      "E02ABB52-C60B-4714-BAF2-9F0CB40E21AA": "This Cat Sanctuary in Old Roman Ruins Is a Must-Visit",
+      "symbolID": "46F1E7E9-0377-4653-9685-7599FA589524"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "41F77DEB-3761-40E7-B3EF-F45764A50AC5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

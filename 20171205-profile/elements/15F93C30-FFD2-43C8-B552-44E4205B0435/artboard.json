@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": -30,
-    "y": -170
+    "x": 1380,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -48,10 +48,22 @@
     {
       "class": "symbolInstance",
       "id": "5419C056-95B5-4DB3-A844-FD15362EB826"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61ECE124-F89B-485F-BB5A-D61B984ACD4E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "51167CF0-9F1C-4158-89E3-5F7E94867270"
+    },
+    {
+      "class": "group",
+      "id": "2A2F45CC-DC4E-4736-9508-D4517C20496C"
     }
   ],
-  "name": "Mobile",
-  "nameIsFixed": false,
+  "name": "✅ small screen signed out",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

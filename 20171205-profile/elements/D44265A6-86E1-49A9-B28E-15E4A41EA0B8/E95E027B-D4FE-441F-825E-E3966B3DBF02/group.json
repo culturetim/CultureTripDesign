@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "E95E027B-D4FE-441F-825E-E3966B3DBF02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1128,
+    "width": 1280,
+    "x": 0,
+    "y": 791
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0E06FDB1-7FAA-48B3-BB5A-0BE16B30605E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88F5A1AE-4C86-40F6-A73D-D667A9558DA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E6315C4-9EB7-48F5-8C87-89C6C8C6812E"
+    }
+  ],
+  "name": "Three Up",
+  "nameIsFixed": true,
+  "resizingConstraint": 29,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

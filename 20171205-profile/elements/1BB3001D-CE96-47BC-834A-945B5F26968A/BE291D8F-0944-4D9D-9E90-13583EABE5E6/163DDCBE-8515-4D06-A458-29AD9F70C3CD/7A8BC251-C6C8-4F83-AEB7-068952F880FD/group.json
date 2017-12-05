@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "7A8BC251-C6C8-4F83-AEB7-068952F880FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 328,
+    "width": 988,
+    "x": 0,
+    "y": 364
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FD5DF24F-39F2-4450-AE5F-A8AA897CB49A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F9E4226-A5F2-4CBA-A28C-D937330457F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A0610A2-4EB5-43AF-A832-95B666E8EC01"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5E4697F-1B0C-4DE8-94C2-0C5D74260843"
+    }
+  ],
+  "name": "Tiles - Three Up",
+  "nameIsFixed": true,
+  "resizingConstraint": 39,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

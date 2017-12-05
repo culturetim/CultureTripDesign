@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BE36DB8C-723B-4266-AD78-567BD804BE72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 328,
+    "width": 296,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Medium Listing - Desktop",
+  "nameIsFixed": false,
+  "overrides": {
+    "95D9FC28-7BC3-4243-A50F-9A42418D44DD": {
+      "A3D8C496-EE8A-4094-AB38-59B244CBFA1E": "THAILAND",
+      "D194B310-1DCC-4A5C-86C0-71989A274FE4": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/dbc1ec9c33c28eab3777b8c14851386902988eeb",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "E5748A27-0F41-44B2-A0C7-AE78B3C48BF2": {
+      "20F177A4-15FF-4078-A9FD-48FEF239C29E": "Eat High in the Sky at This Restaurant Inside a Plane",
+      "6BAB61D2-CA50-4840-A92B-B89053D12A40": "Eat High in the Sky at This Restaurant Inside a Plane",
+      "8322BE56-81DD-400E-A17E-AE5CB386F309": "SPONSORED",
+      "DDC3B8A2-1408-4E3D-B16B-B49FD9E352B1": "Eat High in the Sky at This Restaurant Inside a Plane",
+      "symbolID": "DFC4208C-77AD-42AC-8564-6E42FB527187"
+    }
+  },
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B1E71CC1-0C83-454A-A2CB-159FF4AB3330",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "F0CB66BF-490F-4A3B-93F1-02785516AA9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 772,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E5D7051A-D9ED-4B7A-90B9-F7A8504A7B14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62B62450-4B3D-43D3-B258-4F041CA4C20B"
+    },
+    {
+      "class": "text",
+      "id": "251181DB-60FF-41E7-8CC3-574A04C6D51E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56BB33DD-EFBF-488A-9A55-4118A45B82AF"
+    }
+  ],
+  "name": "Search Bar - Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

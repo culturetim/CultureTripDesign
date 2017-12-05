@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9BC49507-C10C-4E83-AC67-0D449060692C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 328,
+    "width": 296,
+    "x": 692,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "3️⃣ Medium Listing - Desktop",
+  "nameIsFixed": true,
+  "overrides": {
+    "95D9FC28-7BC3-4243-A50F-9A42418D44DD": {
+      "A3D8C496-EE8A-4094-AB38-59B244CBFA1E": "THAILAND",
+      "D194B310-1DCC-4A5C-86C0-71989A274FE4": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0359ac6fa1b3a71b2a506fb4cde15d155db2f90b",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "E5748A27-0F41-44B2-A0C7-AE78B3C48BF2": {
+      "20F177A4-15FF-4078-A9FD-48FEF239C29E": "Thailand's Dark Secret: Should Tourists Avoid Koh Tao?",
+      "6BAB61D2-CA50-4840-A92B-B89053D12A40": "Thailand's Dark Secret: Should Tourists Avoid Koh Tao?",
+      "DDC3B8A2-1408-4E3D-B16B-B49FD9E352B1": "Thailand's Dark Secret: Should Tourists Avoid Koh Tao?",
+      "E636CE1B-217B-4F8B-8A1D-8399D5861B0A": "Thailand's Dark Secret: Should Tourists Avoid Koh Tao?",
+      "symbolID": "DFC4208C-77AD-42AC-8564-6E42FB527187"
+    }
+  },
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B1E71CC1-0C83-454A-A2CB-159FF4AB3330",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

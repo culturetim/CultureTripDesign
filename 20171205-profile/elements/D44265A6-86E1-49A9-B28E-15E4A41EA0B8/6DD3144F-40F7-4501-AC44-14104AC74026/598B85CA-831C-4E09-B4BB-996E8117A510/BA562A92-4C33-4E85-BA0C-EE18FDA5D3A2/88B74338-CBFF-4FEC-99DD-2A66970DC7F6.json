@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "88B74338-CBFF-4FEC-99DD-2A66970DC7F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 315,
+    "width": 469.7049180327868,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "1️⃣ Listing",
+  "nameIsFixed": true,
+  "overrides": {
+    "10827049-7C4D-465A-9AFE-7438C923F1EE": {
+      "symbolID": ""
+    },
+    "1A3925E3-9833-4C43-AECC-F125B9B69B0A": "HONG KONG",
+    "8617E210-D021-4255-A307-29994A542697": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/0528612fd083d5968eaa0b97d76cb78dd1a8ac48",
+      "_ref_class": "MSImageData"
+    },
+    "98301B53-4182-45C2-9F87-49574BF5BFBA": {
+      "symbolID": ""
+    },
+    "E1564A7D-6A61-441F-B2EA-9B54C5F255AD": {
+      "510C07CA-CD3B-4FE1-9A43-1FC93B1B6AB1": "Nüshu: China's Historical 'Women-Only' Secret Script",
+      "C04DF0A7-2BD6-4AE5-AE84-62A280FFDB79": "HONG KONG",
+      "symbolID": "E255801D-FD4D-492F-87F4-D573DFAEA503"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "41F77DEB-3761-40E7-B3EF-F45764A50AC5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
