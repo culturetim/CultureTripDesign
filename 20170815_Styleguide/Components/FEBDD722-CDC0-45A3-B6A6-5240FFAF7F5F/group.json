@@ -34,8 +34,8 @@
       "id": "80C5AAF4-905C-4611-9014-247E49F9A61C"
     }
   ],
-  "name": "Group 2",
-  "nameIsFixed": false,
+  "name": "Tile / Two Lines / Mobile",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
