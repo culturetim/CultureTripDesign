@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "F1A69D18-EADB-482A-A69A-6126C7E44D72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 120,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "670F279E-91B8-4F3D-8CBE-FDC6A35C9F15"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62F71A37-CB7D-457E-9779-A409F392704F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70FEA4F9-AE8C-473E-A57B-009D40E002A4"
+    }
+  ],
+  "name": "LocationWidgets / Mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

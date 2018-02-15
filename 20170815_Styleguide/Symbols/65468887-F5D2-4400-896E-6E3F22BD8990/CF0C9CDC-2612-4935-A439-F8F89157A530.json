@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcXJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIi0wNzo+QkpLTE1OUlZiY2RlZmdoaWpsbVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA18QEEhlYWRlciAtIERlc2t0b3DTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgA2AFYAfgB5fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7WIyQlJgonKCkqKywqWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACACyNAQAAAAAAAAIAJgAzSEgouL6CACtIxMjM0WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjMzU2V05TQXJyYXlYTlNPYmplY3TSEgo4L6CACtIxMjs8XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjOz02XxAQTlNQYXJhZ3JhcGhTdHlsZdIKP0BBXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkNGSaJERYAPgBCiR0iAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOAAAAAAAAF8QFFByb3hpbWFOb3ZhLVNlbWlib2xk0jEyT1BfEBNOU011dGFibGVEaWN0aW9uYXJ5o09RNlxOU0RpY3Rpb25hcnnSMTJTVF8QEE5TRm9udERlc2NyaXB0b3KiVTZfEBBOU0ZvbnREZXNjcmlwdG9y0xESCldcHaRYWVpbgBaAF4AYgBmkXV5fYIAagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8sbGxskzrUjP/AAAAAAAAAjP8sbGxskzrUjP8sbGxskzrXSMTJRa6JRNiO/4AAAAAAAANIxMm5vXxASTlNBdHRyaWJ1dGVkU3RyaW5nonA2XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XN0VHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBoAHEAeACFAIcAiQCLAJ4ApQCtALgAvQC/AMEAwwDFAMoAzADOANAA0gDUAOcBCQE2AT0BSgFVAWEBcwGAAZIBlAGWAZ8BoQGjAagBqQGrAbABuwHEAdMB1wHfAegB7QHuAfAB9QIPAhMCJgIrAkgCSgJMAlMCVgJYAloCXQJfAmECYwJ5Ao8CmAKvArQCygLOAtsC4ALzAvYDCQMQAxUDFwMZAxsDHQMiAyQDJgMoAyoDLAMwAzYDOwNBA0oDUwNcA2UDagNtA3YDewOQA5MDqAO6A70DwgAAAAAAAAIBAAAAAAAAAHUAAAAAAAAAAAAAAAAAAAPE"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "CF0C9CDC-2612-4935-A439-F8F89157A530",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 181,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{1, 8}, {180, 22}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Header - Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 2,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "84FA027D-F0E6-42F5-9DC9-57E771F3078B"
+  },
+  "textBehaviour": 0
+}

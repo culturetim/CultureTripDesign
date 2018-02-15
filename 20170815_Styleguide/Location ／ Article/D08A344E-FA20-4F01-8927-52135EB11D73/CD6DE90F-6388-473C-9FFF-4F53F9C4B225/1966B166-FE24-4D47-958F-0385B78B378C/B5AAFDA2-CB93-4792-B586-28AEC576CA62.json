@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B5AAFDA2-CB93-4792-B586-28AEC576CA62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 244,
+    "width": 219,
+    "x": 248,
+    "y": 552
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Tile / Medium",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "57752191-7BB6-4CFC-8644-B7B488D816AF_symbolID",
+      "value": "0AF4624A-D856-4DD5-9C9A-6C0377E816F7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4658C764-F898-4440-A51F-2B610C63D85D_symbolID",
+      "value": "69D38EE0-6DC2-4F48-AEF7-A2FBC2A01FC0"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4658C764-F898-4440-A51F-2B610C63D85D/FBAE3990-4C93-41B1-B567-8862A38FD4F5_stringValue",
+      "value": "Paris' Most Luxurious Hotel is Over 100 Years Old and Neighbour to The ..."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4658C764-F898-4440-A51F-2B610C63D85D/DF7445C1-EB0A-400F-A5CB-B326DB201621_stringValue",
+      "value": "Paris' Most Luxurious Hotel is Over 100 Years Old and Neighbour to The ..."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "056B800A-9747-44CE-8478-F64036481EE3/1D17215C-6016-4C14-BAD7-F32145AFA29A_stringValue",
+      "value": "PLACES TO STAY"
+    }
+  ],
+  "overrides": {
+    "056B800A-9747-44CE-8478-F64036481EE3": {
+      "1D17215C-6016-4C14-BAD7-F32145AFA29A": "PLACES TO STAY"
+    },
+    "4658C764-F898-4440-A51F-2B610C63D85D": {
+      "DF7445C1-EB0A-400F-A5CB-B326DB201621": "Paris' Most Luxurious Hotel is Over 100 Years Old and Neighbour to The ...",
+      "FBAE3990-4C93-41B1-B567-8862A38FD4F5": "Paris' Most Luxurious Hotel is Over 100 Years Old and Neighbour to The ...",
+      "symbolID": "69D38EE0-6DC2-4F48-AEF7-A2FBC2A01FC0"
+    },
+    "57752191-7BB6-4CFC-8644-B7B488D816AF": {
+      "symbolID": "0AF4624A-D856-4DD5-9C9A-6C0377E816F7"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8E3345E1-BEE5-4EB2-A1CE-9A6CB2E20484",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcXJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIi0wNzo+QkpLTE1OUlZiY2RlZmdoaWpsbVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA18QE1NtYWxsIFRpbGUgLSBNb2JpbGXTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgA2AFYAfgB5fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7WIyQlJgonKCkqKywqWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACACyNAMgAAAAAAAIAJgAzSEgouL6CACtIxMjM0WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjMzU2V05TQXJyYXlYTlNPYmplY3TSEgo4L6CACtIxMjs8XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjOz02XxAQTlNQYXJhZ3JhcGhTdHlsZdIKP0BBXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkNGSaJERYAPgBCiR0iAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKgAAAAAAAF8QFFByb3hpbWFOb3ZhLVNlbWlib2xk0jEyT1BfEBNOU011dGFibGVEaWN0aW9uYXJ5o09RNlxOU0RpY3Rpb25hcnnSMTJTVF8QEE5TRm9udERlc2NyaXB0b3KiVTZfEBBOU0ZvbnREZXNjcmlwdG9y0xESCldcHaRYWVpbgBaAF4AYgBmkXV5fYIAagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8sbGxskzrUjP/AAAAAAAAAjP8sbGxskzrUjP8sbGxskzrXSMTJRa6JRNiM/4AAAAAAAANIxMm5vXxASTlNBdHRyaWJ1dGVkU3RyaW5nonA2XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XN0VHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBoAHEAeACFAIcAiQCLAKEAqACwALsAwADCAMQAxgDIAM0AzwDRANMA1QDXAOoBDAE5AUABTQFYAWQBdgGDAZUBlwGZAaIBpAGmAasBrAGuAbMBvgHHAdYB2gHiAesB8AHxAfMB+AISAhYCKQIuAksCTQJPAlYCWQJbAl0CYAJiAmQCZgJ8ApICmwKyArcCzQLRAt4C4wL2AvkDDAMTAxgDGgMcAx4DIAMlAycDKQMrAy0DLwMzAzkDPgNEA00DVgNfA2gDbQNwA3kDfgOTA5YDqwO9A8ADxQAAAAAAAAIBAAAAAAAAAHUAAAAAAAAAAAAAAAAAAAPH"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "23337B64-D992-4E17-8E60-9EF64C60731E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 116,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 5}, {115, 10}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Small Tile - Mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 2,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "2AFA847F-42A8-48AC-95AC-CCA5507D68E8"
+  },
+  "textBehaviour": 0
+}

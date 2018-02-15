@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcXJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIi0wNzo+QkpLTE1OUlZiY2RlZmdoaWpsbVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA18QFU1lZGl1bSBUaWxlIC0gRGVza3RvcNMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADYAVgB+AHl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtYjJCUmCicoKSorLCpaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIALI0A4AAAAAAAAgAmADNISCi4voIAK0jEyMzRaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMzNTZXTlNBcnJheVhOU09iamVjdNISCjgvoIAK0jEyOzxfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM7PTZfEBBOU1BhcmFncmFwaFN0eWxl0go/QEFfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKQ0ZJokRFgA+AEKJHSIARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AyAAAAAAAAXxAUUHJveGltYU5vdmEtU2VtaWJvbGTSMTJPUF8QE05TTXV0YWJsZURpY3Rpb25hcnmjT1E2XE5TRGljdGlvbmFyedIxMlNUXxAQTlNGb250RGVzY3JpcHRvcqJVNl8QEE5TRm9udERlc2NyaXB0b3LTERIKV1wdpFhZWluAFoAXgBiAGaRdXl9ggBqAG4AcgB2AHlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/yxsbGyTOtSM/8AAAAAAAACM/yxsbGyTOtSM/yxsbGyTOtdIxMlFrolE2Iz/gAAAAAAAA0jEybm9fEBJOU0F0dHJpYnV0ZWRTdHJpbmeicDZfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRc3RUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsAowCqALIAvQDCAMQAxgDIAMoAzwDRANMA1QDXANkA7AEOATsBQgFPAVoBZgF4AYUBlwGZAZsBpAGmAagBrQGuAbABtQHAAckB2AHcAeQB7QHyAfMB9QH6AhQCGAIrAjACTQJPAlECWAJbAl0CXwJiAmQCZgJoAn4ClAKdArQCuQLPAtMC4ALlAvgC+wMOAxUDGgMcAx4DIAMiAycDKQMrAy0DLwMxAzUDOwNAA0YDTwNYA2EDagNvA3IDewOAA5UDmAOtA78DwgPHAAAAAAAAAgEAAAAAAAAAdQAAAAAAAAAAAAAAAAAAA8k="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "CD7587F4-1DD5-45BC-BCDB-B8F6ABAF8ADB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 192,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{1, 6}, {190, 17}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Medium Tile - Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 2,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "017703D0-6C2F-4190-8901-604312295B11"
+  },
+  "textBehaviour": 0
+}

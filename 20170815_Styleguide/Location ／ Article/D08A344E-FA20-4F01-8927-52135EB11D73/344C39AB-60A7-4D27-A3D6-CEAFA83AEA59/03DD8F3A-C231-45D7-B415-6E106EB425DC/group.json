@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "03DD8F3A-C231-45D7-B415-6E106EB425DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 175,
+    "width": 208,
+    "x": 0,
+    "y": 2367
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F9184521-19E6-49BA-9DEA-83C44C67560B"
+    },
+    {
+      "class": "group",
+      "id": "AA0B15E6-5503-46D1-A835-4CEC6F9D1867"
+    },
+    {
+      "class": "group",
+      "id": "53B38DCC-043C-4019-92B0-D76E7DDBBD9D"
+    },
+    {
+      "class": "text",
+      "id": "CF019583-39FB-4C01-AEC2-196157DDDC33"
+    }
+  ],
+  "name": "Newsletter Form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "8EF85D2C-17A3-4025-8FDA-E71C2040842A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 243,
+    "width": 219,
+    "x": 0,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "43D603AA-478F-4AA9-B0BB-6711B4569E91"
+    },
+    {
+      "class": "group",
+      "id": "F56480BC-29BE-4098-8C30-50645E62F96A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3554D1D-D125-40D6-B3C7-6E9A7F4940E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34CA0AE9-59FB-43C8-B266-6557617AEF17"
+    }
+  ],
+  "name": "Small Listing - Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

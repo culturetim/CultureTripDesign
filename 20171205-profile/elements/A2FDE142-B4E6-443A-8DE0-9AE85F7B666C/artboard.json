@@ -47,11 +47,11 @@
     },
     {
       "class": "shapeGroup",
-      "id": "E6F4274D-8073-4B4A-8FAB-439110B64779"
+      "id": "F1A40ACD-B3D4-4460-9789-79A734E18736"
     },
     {
-      "class": "symbolInstance",
-      "id": "57989BA2-1A33-4ED3-9BF5-B393D586ABFC"
+      "class": "shapeGroup",
+      "id": "E6F4274D-8073-4B4A-8FAB-439110B64779"
     },
     {
       "class": "symbolInstance",
@@ -64,6 +64,10 @@
     {
       "class": "symbolInstance",
       "id": "9A9294D4-8B77-4DF4-B954-6D48C227032A"
+    },
+    {
+      "class": "text",
+      "id": "66EAEDF7-BCD2-4C00-B996-745E2A9BAB9B"
     }
   ],
   "name": "✅ small screen edit",

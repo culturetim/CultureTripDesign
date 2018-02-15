@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcHFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIi0wNzo+QkpLKkxNUVVhYmNkZWZnaGlrbFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA18QFFNNQUxMIENBUFMgLSBERVNLVE9Q0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIANgBWAH4AeXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1iMkJSYKJygpKissKlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgAsjQCoAAAAAAACACYAM0hIKLi+ggArSMTIzNFokY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5ozM1NldOU0FycmF5WE5TT2JqZWN00hIKOC+ggArSMTI7PF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozs9Nl8QEE5TUGFyYWdyYXBoU3R5bGXSCj9AQV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMREgpDRkmiREWAD4AQokdIgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGVfEBBQcm94aW1hTm92YS1Cb2xk0jEyTk9fEBNOU011dGFibGVEaWN0aW9uYXJ5o05QNlxOU0RpY3Rpb25hcnnSMTJSU18QEE5TRm9udERlc2NyaXB0b3KiVDZfEBBOU0ZvbnREZXNjcmlwdG9y0xESClZbHaRXWFlagBaAF4AYgBmkXF1eX4AagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8sbGxskzrUjP/AAAAAAAAAjP8sbGxskzrUjP8sbGxskzrXSMTJQaqJQNiM/4AAAAAAAANIxMm1uXxASTlNBdHRyaWJ1dGVkU3RyaW5nom82XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XJzVHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBoAHEAeACFAIcAiQCLAKIAqQCxALwAwQDDAMUAxwDJAM4A0ADSANQA1gDYAOsBDQE6AUEBTgFZAWUBdwGEAZYBmAGaAaMBpQGnAawBrQGvAbQBvwHIAdcB2wHjAewB8QHyAfQB+QITAhcCKgIvAkwCTgJQAlcCWgJcAl4CYQJjAmUCZwJ9ApMCpgKrAsECxQLSAtcC6gLtAwADBwMMAw4DEAMSAxQDGQMbAx0DHwMhAyMDJwMtAzIDOANBA0oDUwNcA2EDZANtA3IDhwOKA58DsQO0A7kAAAAAAAACAQAAAAAAAAB0AAAAAAAAAAAAAAAAAAADuw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "002951C2-ED9C-496F-B0F7-533D72D2AA96",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 13,
+    "width": 158,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 3}, {157, 10}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Small Caps - Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 2,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C5E36593-8104-4C75-A61B-CBB93E8B40D0"
+  },
+  "textBehaviour": 0
+}

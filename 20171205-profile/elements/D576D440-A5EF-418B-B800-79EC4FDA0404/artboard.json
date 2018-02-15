@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -78,8 +78,8 @@
       "id": "366D67B6-7BEF-4878-96D2-2C30C0549029"
     },
     {
-      "class": "group",
-      "id": "04EEA511-13DB-4BF8-A886-FF26F69B0289"
+      "class": "symbolInstance",
+      "id": "F1BDC397-C43D-438B-BDE0-4CB4EFCA026E"
     }
   ],
   "name": "✅ small screen profile",

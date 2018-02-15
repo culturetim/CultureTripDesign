@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "46F3535C-4075-4C01-8256-3E694E348CCC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1142,
+    "width": 219,
+    "x": 0,
+    "y": 1182
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "685A1F2F-C398-4EC9-81B4-BC72BC341D11"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC395403-DDE0-4E51-A71F-17FF5E9E61E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7503E5FC-67C3-43BF-8DC4-C9E996EA2367"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34C03726-92CB-4EC3-94D7-40F38CCC301C"
+    },
+    {
+      "class": "group",
+      "id": "84940728-56DC-4ED0-8EE9-8C4E1EE12390"
+    }
+  ],
+  "name": "Trending",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

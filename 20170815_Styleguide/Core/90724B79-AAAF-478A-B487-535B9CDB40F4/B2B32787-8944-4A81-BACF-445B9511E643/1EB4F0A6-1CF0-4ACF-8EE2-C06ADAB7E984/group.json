@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "1EB4F0A6-1CF0-4ACF-8EE2-C06ADAB7E984",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 232,
+    "width": 1148,
+    "x": 0,
+    "y": 2241
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5F21B21A-81DF-40FE-9BB1-64C7698F4F89"
+    },
+    {
+      "class": "text",
+      "id": "64FB55D1-59BC-49F6-8249-51A79B2F0E19"
+    },
+    {
+      "class": "text",
+      "id": "D83F4CB7-4DE7-4A5A-A156-056CB763303B"
+    }
+  ],
+  "name": "Big Tile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

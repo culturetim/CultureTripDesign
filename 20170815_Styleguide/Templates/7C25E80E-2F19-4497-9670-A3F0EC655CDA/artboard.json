@@ -1,0 +1,94 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
+  },
+  "do_objectID": "7C25E80E-2F19-4497-9670-A3F0EC655CDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3031,
+    "width": 1280,
+    "x": 4140,
+    "y": 0
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      164,
+      878,
+      911,
+      1130
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "EECCDEF9-92D1-4AB4-86CA-55C04984C45F"
+    },
+    {
+      "class": "group",
+      "id": "8C6975DE-0CB3-441F-874D-16D4059C415B"
+    },
+    {
+      "class": "group",
+      "id": "89B1D8BD-AC6B-4880-8AE6-85AA11E3816E"
+    },
+    {
+      "class": "group",
+      "id": "4CC7A6AF-8337-495A-9EAF-3F3D8F9CA76B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D922EF29-CF93-4446-BE75-DCBDF49F6945"
+    }
+  ],
+  "name": "Location Page",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

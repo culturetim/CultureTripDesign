@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "63B42A6B-335A-4001-9C4D-F4AC04439602",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 167,
+    "width": 287.9999999999999,
+    "x": 864.9999999999997,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7E36C5CE-BA44-4B25-BABE-45BB68AC62FA"
+    },
+    {
+      "class": "group",
+      "id": "43649A6F-1488-465F-9041-8B56E22EF13F"
+    },
+    {
+      "class": "group",
+      "id": "453BE34C-BA0B-444B-A287-03A7D906D3C6"
+    },
+    {
+      "class": "group",
+      "id": "F85CF24C-6FD7-4547-B4F1-7B3AFF5B6C63"
+    },
+    {
+      "class": "group",
+      "id": "82BBE632-C4EC-4975-AB47-163C64ED83C6"
+    },
+    {
+      "class": "text",
+      "id": "808381A6-D01E-42EE-81D2-836BBF92573D"
+    }
+  ],
+  "name": "Footer Menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

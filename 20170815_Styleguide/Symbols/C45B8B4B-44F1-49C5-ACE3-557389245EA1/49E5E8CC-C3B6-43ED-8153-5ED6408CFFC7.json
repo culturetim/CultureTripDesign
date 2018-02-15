@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcXJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIi0wNzo+QkpLTE1OUlZiY2RlZmdoaWpsbVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA18QD1RpdGxlIC0gRGVza3RvcNMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADYAVgB+AHl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtYjJCUmCicoKSorLCpaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIALI0BMAAAAAAAAgAmADNISCi4voIAK0jEyMzRaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMzNTZXTlNBcnJheVhOU09iamVjdNISCjgvoIAK0jEyOzxfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM7PTZfEBBOU1BhcmFncmFwaFN0eWxl0go/QEFfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKQ0ZJokRFgA+AEKJHSIARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0BIAAAAAAAAXxAUUHJveGltYU5vdmEtU2VtaWJvbGTSMTJPUF8QE05TTXV0YWJsZURpY3Rpb25hcnmjT1E2XE5TRGljdGlvbmFyedIxMlNUXxAQTlNGb250RGVzY3JpcHRvcqJVNl8QEE5TRm9udERlc2NyaXB0b3LTERIKV1wdpFhZWluAFoAXgBiAGaRdXl9ggBqAG4AcgB2AHlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/yxsbGyTOtSM/8AAAAAAAACM/yxsbGyTOtSM/yxsbGyTOtdIxMlFrolE2I7/gAAAAAAAA0jEybm9fEBJOU0F0dHJpYnV0ZWRTdHJpbmeicDZfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRc3RUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsAnQCkAKwAtwC8AL4AwADCAMQAyQDLAM0AzwDRANMA5gEIATUBPAFJAVQBYAFyAX8BkQGTAZUBngGgAaIBpwGoAaoBrwG6AcMB0gHWAd4B5wHsAe0B7wH0Ag4CEgIlAioCRwJJAksCUgJVAlcCWQJcAl4CYAJiAngCjgKXAq4CswLJAs0C2gLfAvIC9QMIAw8DFAMWAxgDGgMcAyEDIwMlAycDKQMrAy8DNQM6A0ADSQNSA1sDZANpA2wDdQN6A48DkgOnA7kDvAPBAAAAAAAAAgEAAAAAAAAAdQAAAAAAAAAAAAAAAAAAA8M="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "49E5E8CC-C3B6-43ED-8153-5ED6408CFFC7",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 304,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{1, 13}, {302, 42}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Title - Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 2,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "3F7B5816-8588-4AE4-9A92-CDEABA05EC29"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "E0A2ACD3-5C26-48E1-A914-C820845D085D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1138,
+    "width": 219,
+    "x": 0,
+    "y": 1181
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F5E977F1-1D97-4018-9C9E-F33FDBCF121A"
+    },
+    {
+      "class": "group",
+      "id": "3D697B8F-8864-46E0-8AF0-A50DA3B61D17"
+    },
+    {
+      "class": "group",
+      "id": "30CBA0CF-9D28-4FD3-82D8-1D00E7C18F94"
+    },
+    {
+      "class": "group",
+      "id": "0AD3157D-F8CA-4E37-A409-989C10CDE402"
+    },
+    {
+      "class": "group",
+      "id": "54C23954-8ADE-4D12-8C13-CEA107333E7D"
+    }
+  ],
+  "name": "Trending",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

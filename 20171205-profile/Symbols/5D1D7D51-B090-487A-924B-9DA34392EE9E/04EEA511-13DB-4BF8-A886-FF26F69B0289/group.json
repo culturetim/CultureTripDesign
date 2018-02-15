@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "04EEA511-13DB-4BF8-A886-FF26F69B0289",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 82,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AF40FD16-8083-4713-9655-EC3EB31E7A1B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C0B7FB38-BB4D-4606-AA62-D0C6DE4D505D"
+    },
+    {
+      "class": "text",
+      "id": "6364925D-CAC8-4471-A3D1-B89AAD1DAE9D"
+    },
+    {
+      "class": "text",
+      "id": "414D347D-8B4C-47A1-A9D4-10EAF8354F0F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE78B886-9C92-49C8-B45F-A1104EAC510A"
+    }
+  ],
+  "name": "element/profile/person/small",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

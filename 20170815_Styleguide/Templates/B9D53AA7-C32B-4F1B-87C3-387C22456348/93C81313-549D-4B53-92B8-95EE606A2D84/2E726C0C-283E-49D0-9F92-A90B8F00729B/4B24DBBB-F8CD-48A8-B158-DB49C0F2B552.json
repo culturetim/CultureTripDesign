@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4B24DBBB-F8CD-48A8-B158-DB49C0F2B552",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 328,
+    "width": 296,
+    "x": 346,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "2️⃣ 2nd Listing",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "95D9FC28-7BC3-4243-A50F-9A42418D44DD/A3D8C496-EE8A-4094-AB38-59B244CBFA1E_stringValue",
+      "value": "WHAT'S ON"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E5748A27-0F41-44B2-A0C7-AE78B3C48BF2_symbolID",
+      "value": "DFC4208C-77AD-42AC-8564-6E42FB527187"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E5748A27-0F41-44B2-A0C7-AE78B3C48BF2/DDC3B8A2-1408-4E3D-B16B-B49FD9E352B1_stringValue",
+      "value": "A Micro Pig Pop-up Is Coming to a City Near You"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E5748A27-0F41-44B2-A0C7-AE78B3C48BF2/20F177A4-15FF-4078-A9FD-48FEF239C29E_stringValue",
+      "value": "A Micro Pig Pop-up Is Coming to a City Near You"
+    }
+  ],
+  "overrides": {
+    "95D9FC28-7BC3-4243-A50F-9A42418D44DD": {
+      "A3D8C496-EE8A-4094-AB38-59B244CBFA1E": "WHAT'S ON"
+    },
+    "E5748A27-0F41-44B2-A0C7-AE78B3C48BF2": {
+      "20F177A4-15FF-4078-A9FD-48FEF239C29E": "A Micro Pig Pop-up Is Coming to a City Near You",
+      "DDC3B8A2-1408-4E3D-B16B-B49FD9E352B1": "A Micro Pig Pop-up Is Coming to a City Near You",
+      "symbolID": "DFC4208C-77AD-42AC-8564-6E42FB527187"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B1E71CC1-0C83-454A-A2CB-159FF4AB3330",
+  "verticalSpacing": 0
+}

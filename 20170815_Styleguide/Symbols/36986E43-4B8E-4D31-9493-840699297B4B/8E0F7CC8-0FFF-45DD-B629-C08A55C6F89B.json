@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcHFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIi0wNzo+QkpLKkxNUVVhYmNkZWZnaGlrbFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA18QGVN1Yi1TdWItaGVhZGluZyAtIERlc2t0b3DTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgA2AFYAfgB5fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7WIyQlJgonKCkqKywqWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACACyNAMgAAAAAAAIAJgAzSEgouL6CACtIxMjM0WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjMzU2V05TQXJyYXlYTlNPYmplY3TSEgo4L6CACtIxMjs8XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjOz02XxAQTlNQYXJhZ3JhcGhTdHlsZdIKP0BBXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkNGSaJERYAPgBCiR0iAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZV8QFFByb3hpbWFOb3ZhLVNlbWlib2xk0jEyTk9fEBNOU011dGFibGVEaWN0aW9uYXJ5o05QNlxOU0RpY3Rpb25hcnnSMTJSU18QEE5TRm9udERlc2NyaXB0b3KiVDZfEBBOU0ZvbnREZXNjcmlwdG9y0xESClZbHaRXWFlagBaAF4AYgBmkXF1eX4AagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8sbGxskzrUjP/AAAAAAAAAjP8sbGxskzrUjP8sbGxskzrXSMTJQaqJQNiO/4AAAAAAAANIxMm1uXxASTlNBdHRyaWJ1dGVkU3RyaW5nom82XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XJzVHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBoAHEAeACFAIcAiQCLAKcArgC2AMEAxgDIAMoAzADOANMA1QDXANkA2wDdAPABEgE/AUYBUwFeAWoBfAGJAZsBnQGfAagBqgGsAbEBsgG0AbkBxAHNAdwB4AHoAfEB9gH3AfkB/gIYAhwCLwI0AlECUwJVAlwCXwJhAmMCZgJoAmoCbAKCApgCrwK0AsoCzgLbAuAC8wL2AwkDEAMVAxcDGQMbAx0DIgMkAyYDKAMqAywDMAM2AzsDQQNKA1MDXANlA2oDbQN2A3sDkAOTA6gDugO9A8IAAAAAAAACAQAAAAAAAAB0AAAAAAAAAAAAAAAAAAADxA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "8E0F7CC8-0FFF-45DD-B629-C08A55C6F89B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 209,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 3}, {209, 17}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Sub-Sub-heading - Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 2,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "E0F39CF1-60CA-4161-8250-D599094DFDD2"
+  },
+  "textBehaviour": 0
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "4A45690B-0E08-4109-ACC0-2124C308D559",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 302,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "81F76D49-F092-47C4-9EC3-726762CD658B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58B68F7A-6E81-4B7A-9FF4-1309F53A0A7E"
+    },
+    {
+      "class": "group",
+      "id": "3F242411-FEC8-49BB-874F-1F601C75BC17"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7D052DA-019C-42C6-825C-515B35612B12"
+    }
+  ],
+  "name": "iOS/Safari/SearchBar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

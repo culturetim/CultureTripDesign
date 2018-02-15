@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcHFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIi0wNzo+QkpLKkxNUVVhYmNkZWZnaGlrbFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA18QGFN1Yi1TdWItaGVhZGluZyAtIE1vYmlsZdMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADYAVgB+AHl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtYjJCUmCicoKSorLCpaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIALI0AyAAAAAAAAgAmADNISCi4voIAK0jEyMzRaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMzNTZXTlNBcnJheVhOU09iamVjdNISCjgvoIAK0jEyOzxfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM7PTZfEBBOU1BhcmFncmFwaFN0eWxl0go/QEFfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKQ0ZJokRFgA+AEKJHSIARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlXxAUUHJveGltYU5vdmEtU2VtaWJvbGTSMTJOT18QE05TTXV0YWJsZURpY3Rpb25hcnmjTlA2XE5TRGljdGlvbmFyedIxMlJTXxAQTlNGb250RGVzY3JpcHRvcqJUNl8QEE5TRm9udERlc2NyaXB0b3LTERIKVlsdpFdYWVqAFoAXgBiAGaRcXV5fgBqAG4AcgB2AHlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/yxsbGyTOtSM/8AAAAAAAACM/yxsbGyTOtSM/yxsbGyTOtdIxMlBqolA2I7/gAAAAAAAA0jEybW5fEBJOU0F0dHJpYnV0ZWRTdHJpbmeibzZfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcnNUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsApgCtALUAwADFAMcAyQDLAM0A0gDUANYA2ADaANwA7wERAT4BRQFSAV0BaQF7AYgBmgGcAZ4BpwGpAasBsAGxAbMBuAHDAcwB2wHfAecB8AH1AfYB+AH9AhcCGwIuAjMCUAJSAlQCWwJeAmACYgJlAmcCaQJrAoEClwKuArMCyQLNAtoC3wLyAvUDCAMPAxQDFgMYAxoDHAMhAyMDJQMnAykDKwMvAzUDOgNAA0kDUgNbA2QDaQNsA3UDegOPA5IDpwO5A7wDwQAAAAAAAAIBAAAAAAAAAHQAAAAAAAAAAAAAAAAAAAPD"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "4008001A-B12D-4858-87AC-81F72A56AB17",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 197,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 3}, {196, 17}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Sub-Sub-heading - Mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 2,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "54144F76-9FCA-42B5-A02B-A89C35EA8AF9"
+  },
+  "textBehaviour": 0
+}

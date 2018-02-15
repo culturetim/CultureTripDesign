@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "654C0478-3566-4392-AB01-C20D6BBDC375",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 352,
+    "width": 383,
+    "x": 1799,
+    "y": -2184
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "080B8F66-C1EC-4987-8833-9C471AC566E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65ACB456-A161-4948-A4DB-E424208F71E4"
+    }
+  ],
+  "name": "Tile / Three Lines / Mobile",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

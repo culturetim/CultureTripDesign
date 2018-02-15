@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "0A1131F4-8E21-441D-93B7-192BF2423B21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 772,
+    "x": 254,
+    "y": 226.5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "38C48F7D-5017-4359-9093-C02913D03C4A"
+    },
+    {
+      "class": "group",
+      "id": "034091D0-5741-499C-A7AB-DC8C403AA08F"
+    },
+    {
+      "class": "text",
+      "id": "D543C5D6-7D0D-4C03-9C29-ED29472BBF9E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "070AB30E-85C5-49F7-8F67-1F711C0A9E51"
+    }
+  ],
+  "name": "Search Bar - Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

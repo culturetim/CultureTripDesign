@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "2E216E4F-571C-46BE-81D0-2CE4C60AD951",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 440,
+    "width": 714,
+    "x": 164,
+    "y": 151
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F19A88E4-E4F1-448A-8311-5BE1A0A2E797"
+    },
+    {
+      "class": "group",
+      "id": "4B5DC6B4-6F7E-43BC-BC60-B3710C20BF3F"
+    },
+    {
+      "class": "group",
+      "id": "01974A64-9D99-48B2-9031-E8A08137FCDE"
+    }
+  ],
+  "name": "Masthead Image",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

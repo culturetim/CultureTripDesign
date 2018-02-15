@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "A5FADD22-0856-4B47-BDF3-317CBFA98C9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 481,
+    "width": 988,
+    "x": 146,
+    "y": 4638
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "358168C2-0479-496D-A08E-D6BCAFC0A3A9"
+    },
+    {
+      "class": "group",
+      "id": "0F495EEA-F283-4CB4-8939-E2CD016E0D86"
+    },
+    {
+      "class": "group",
+      "id": "495EF4B4-D5B7-4745-875F-ED1597ED2135"
+    }
+  ],
+  "name": "Small Listings - Three Up",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
