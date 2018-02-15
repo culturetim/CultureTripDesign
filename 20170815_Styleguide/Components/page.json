@@ -147,6 +147,10 @@
     {
       "class": "group",
       "id": "FEBDD722-CDC0-45A3-B6A6-5240FFAF7F5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28F5EEB5-3A0D-481B-A759-05460A3C0388"
     }
   ],
   "name": "Components",

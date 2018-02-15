@@ -1191,6 +1191,10 @@
     {
       "class": "text",
       "id": "DC06C600-3254-4564-8D83-D46958EFE04E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "24E7CA51-213A-419D-831D-C1779D859753"
     }
   ],
   "name": "Symbols",
