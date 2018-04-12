@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "869D86D3-FD78-42EF-89C8-9D2BDA83F776",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "738E6304-2496-49C7-8B70-814C0760101D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B72DE962-598E-4D2F-AD22-020C89D8ED75",
+    "height": 55,
+    "width": 360,
+    "x": 0,
+    "y": 24
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Search Bar / Light Search Field Empty / Android",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 34,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BEBAADF0-42F1-4A06-9C29-D5270EA3D8BA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "521917F0-14AB-42AD-BC62-5AA417CDB5D6",
+  "verticalSpacing": 0
+}

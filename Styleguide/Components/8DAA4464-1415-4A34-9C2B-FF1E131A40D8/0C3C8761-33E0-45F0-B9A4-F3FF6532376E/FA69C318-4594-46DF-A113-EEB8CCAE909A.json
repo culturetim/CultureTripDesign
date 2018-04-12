@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FA69C318-4594-46DF-A113-EEB8CCAE909A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B187CFE-7EDE-4463-9D88-CA5BB8AC058C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4ED9CDEA-239C-4167-9CE8-BBEFCC1A7E2D",
+    "height": 100,
+    "width": 300,
+    "x": 620,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "3️⃣ Card",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9BDFAC1-B34E-4C51-8393-9D1F32046C90",
+      "overrideName": "D2F22C66-05DE-4ED0-AD38-9B0A47CC762A_stringValue",
+      "value": "Jardin des Tuileries"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9356C9A2-0A29-49AB-BBC4-4AEF34C9F714",
+      "overrideName": "F4A18AD6-98BC-41A1-9BFF-EE9F6241D505_stringValue",
+      "value": "113 Rue de Rivoli, 75001 Paris..."
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D5863208-6B5F-4A66-AFF4-4DC3C7A092DE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F3F23981-8764-40A0-A948-6EA4C42F78D8",
+  "verticalSpacing": 0
+}

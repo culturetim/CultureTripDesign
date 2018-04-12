@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "499F27D5-1647-467E-B3CB-0ED2CD3923AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EFCD121C-4F63-4F39-A649-210CB48E44F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6CECC9D-83E3-401F-8E16-47328326053D",
+    "height": 35,
+    "width": 26,
+    "x": 145,
+    "y": 398
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Luxembourg Gardens Pin",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A14032A7-F7DF-4BAF-AA48-85B63D2FCD70",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8E599C28-9A65-461E-B621-9A311C2A77A0",
+  "verticalSpacing": 0
+}

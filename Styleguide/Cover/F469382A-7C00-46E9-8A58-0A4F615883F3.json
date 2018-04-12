@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F469382A-7C00-46E9-8A58-0A4F615883F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4A07899-3A41-4CD3-B197-83892D00E190",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F8E357DA-E481-4DD3-86BD-161542080FB0",
+    "height": 35,
+    "width": 206,
+    "x": 8,
+    "y": -71
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Logo + Wordmark",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D6C99D76-7174-4B7E-92E1-EEBB4DAC5CA0_symbolID",
+      "value": "409FAB9E-991D-494F-B96D-8CC4781B8A91"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11CC9E21-CA4C-444F-ADFC-D1A04474FC5C",
+      "overrideName": "87306CD1-9A43-4771-95D7-AF5E51FB79A6_symbolID",
+      "value": "409FAB9E-991D-494F-B96D-8CC4781B8A91"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C10D1039-E706-43E3-91AD-999BA2B4900B",
+      "overrideName": "BD838342-D2A5-4B09-8F0E-EF6DD0ED739B_symbolID",
+      "value": "409FAB9E-991D-494F-B96D-8CC4781B8A91"
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.9,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "ECDB7D9C-2D6F-47FC-9FDF-70F6E8B68650",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9,
+      "type": 0
+    },
+    "do_objectID": "3BB230CD-2258-4BCA-9452-AADE6B839473",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B3757E9F-C941-4078-AB39-24C74D4ABA64",
+  "verticalSpacing": 0
+}

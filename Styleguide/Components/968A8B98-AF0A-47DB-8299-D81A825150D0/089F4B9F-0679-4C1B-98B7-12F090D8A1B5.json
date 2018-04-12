@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "089F4B9F-0679-4C1B-98B7-12F090D8A1B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EBCDC2E2-B579-413A-8072-20F9A9A5F393",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1BA281CF-5DB0-4200-B0C3-12C4B31A3AB2",
+    "height": 35,
+    "width": 26,
+    "x": 20,
+    "y": 131
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Eiffel Tower Pin",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56E24A22-D851-4434-9F22-61AC2F7ABB0C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A56E79BF-B573-4A0A-9FD5-86FBF33772C7",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "8CC143D7-6CA3-449E-AE4B-2076E1BC6556",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7B55D9F7-61F5-41B5-8627-F8E1F5DDB4CF"
+    },
+    {
+      "class": "text",
+      "id": "6A7162BD-9C9C-45EF-85A0-7A3130966F27"
+    },
+    {
+      "class": "text",
+      "id": "8E0A6038-C6C3-4C6D-8BE1-29A601C9E7E1"
+    },
+    {
+      "class": "text",
+      "id": "BB8FFBCA-DE93-495F-9DBE-95C75DDE062C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F4F82220-596E-4493-942C-5F5416DD2E44"
+    }
+  ],
+  "name": "appBanner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

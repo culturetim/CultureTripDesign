@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "EA853330-A9EC-45CF-BED1-9CA5AFA061A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F428A60-77E6-4808-B6D5-510BA79121B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "872DEA06-B937-4AC6-A4B1-22A157A5C54B",
+    "height": 23.21297788288251,
+    "width": 23.52832065217353,
+    "x": 2,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B7FBC422-AEE4-44E6-AF9C-B6376AE818E4"
+    },
+    {
+      "class": "shapePath",
+      "id": "008AC827-B373-406A-9804-02B9610B0AB1"
+    },
+    {
+      "class": "shapePath",
+      "id": "3D70295C-3F10-43D1-96F0-3B871A4C5478"
+    }
+  ],
+  "name": "Stroke 8",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "589C94C1-98A2-4191-A14E-FB4E616F8CD2",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 0
+}

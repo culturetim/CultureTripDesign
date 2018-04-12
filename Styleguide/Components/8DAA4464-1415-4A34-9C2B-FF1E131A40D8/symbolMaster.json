@@ -1,0 +1,99 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.8980392156862745,
+    "green": 0.9098039215686274,
+    "red": 0.9137254901960784
+  },
+  "changeIdentifier": 218,
+  "do_objectID": "8DAA4464-1415-4A34-9C2B-FF1E131A40D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7A828B2-B011-4F6D-A03E-49016C2B0A53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5EEEC109-922D-480A-A13D-0F966068C804",
+    "height": 120,
+    "width": 375,
+    "x": 5799,
+    "y": -3159
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FF880D82-2CE2-4FD3-99B0-A6A65CF281BF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FD956495-F84D-4DB2-9215-122B5EEAE81E"
+    },
+    {
+      "class": "group",
+      "id": "0C3C8761-33E0-45F0-B9A4-F3FF6532376E"
+    }
+  ],
+  "name": "Map / Card Tray / Mobile / Scrolled",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1848054D-6464-4E53-8161-6CAD29D2B9BD",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CEB1D690-18F8-46D2-AECE-DC12179B5AE7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "360248D2-D7D5-43C3-A3E6-D9214394709B",
+    "guides": [
+    ]
+  }
+}

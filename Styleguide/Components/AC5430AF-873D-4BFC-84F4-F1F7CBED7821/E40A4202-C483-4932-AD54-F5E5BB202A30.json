@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E40A4202-C483-4932-AD54-F5E5BB202A30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BF840A1-09A8-47EE-AEF7-35417F7F7C0C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D0CF10D9-29DF-4434-B993-01D715E09990",
+    "height": 100,
+    "width": 246,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1️⃣ Card",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0566F6C-7647-45B3-AEEC-7AA0349E9882",
+      "overrideName": "92BF2354-6113-4805-B54A-857421D9D883/59B71E15-2DDA-40C8-B26F-06966A8CC5CB_stringValue",
+      "value": "Eiffel Tower"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ADC1F63F-5E87-47CB-9A43-E700ADFF0B3E",
+      "overrideName": "1050C484-DD67-4F5B-9741-DCCBE7D13BE1_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A03C49C8-4259-4329-9750-7855B83E581A",
+      "overrideName": "FD1219FF-216F-434C-A9FC-5C64BC13C5C3/4BD8B1CA-9F3C-476F-978E-A82A53F37BC3_stringValue",
+      "value": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris, France"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C96AE7F2-A8DB-47CD-8418-2028F246EDA9",
+      "overrideName": "2E81D564-5B01-49D0-B9DF-57D45F1962C0_stringValue",
+      "value": "Eiffel Tower"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E442A0C-1ECB-436E-BFEA-24336C7D414C",
+      "overrideName": "5C72946C-2ECF-426B-A96A-EE8B92B30B90_stringValue",
+      "value": "Champ de Mars, 5 Avenue Anatol..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60B9E2CC-85E7-45D0-B4D6-C52681CDA24B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9B0EF0E9-6ADB-4BAC-B3FB-EBFF39DCFECA",
+  "verticalSpacing": 0
+}

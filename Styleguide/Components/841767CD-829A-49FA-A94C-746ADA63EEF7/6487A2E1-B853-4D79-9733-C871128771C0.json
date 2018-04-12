@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6487A2E1-B853-4D79-9733-C871128771C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61258D1C-5B56-453B-955A-AF239BA966D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F980CF95-BFBF-470B-9285-17F960FE9726",
+    "height": 35,
+    "width": 26,
+    "x": 559,
+    "y": 357
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Place des Vosges Pin",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "898BEC4E-D4A6-4BF7-9898-37E014F90FF9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8E599C28-9A65-461E-B621-9A311C2A77A0",
+  "verticalSpacing": 0
+}

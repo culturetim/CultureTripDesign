@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "6F620CA9-430B-4836-9C22-464084A18A9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73B58305-5E5B-42E8-8879-60AA4C71FE8F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8CE0EB3-8371-4C22-A799-58D69819ED02",
+    "height": 32,
+    "width": 84,
+    "x": 243,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9987B068-68C6-40D6-8218-2191889A349B"
+    },
+    {
+      "class": "text",
+      "id": "003F2543-C82F-4664-8780-0E9E189DAD5C"
+    }
+  ],
+  "name": "Neighbourhood Tag",
+  "nameIsFixed": true,
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D3EB5A4-F99F-4FDB-8FA4-134B32361939",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

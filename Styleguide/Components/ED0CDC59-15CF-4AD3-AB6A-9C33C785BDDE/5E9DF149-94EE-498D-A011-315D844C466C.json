@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5E9DF149-94EE-498D-A011-315D844C466C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2717D48D-2934-4F68-8F23-EB21D208691A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1C9C930-B2CC-47BA-8C22-90D43AA4AA40",
+    "height": 1024,
+    "width": 768,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "💻 Map ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4ED0E14C-240B-44AA-869C-9EEE1E7D2882",
+      "overrideName": "03F172CA-8940-4061-9324-0BED41F754AC_symbolID",
+      "value": "CEB1D690-18F8-46D2-AECE-DC12179B5AE7"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EEE06D66-8E3A-486D-AAE1-9763D3FCBBEB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F3A160B4-C008-4746-8A82-CA3508C95516",
+  "verticalSpacing": 0
+}

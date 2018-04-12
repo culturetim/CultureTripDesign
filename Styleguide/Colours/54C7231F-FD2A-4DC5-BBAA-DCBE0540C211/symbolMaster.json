@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8D5C6A21-96BC-4E50-8F4F-9A3BB6F9A4ED",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1869,
+  "do_objectID": "54C7231F-FD2A-4DC5-BBAA-DCBE0540C211",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81446DE1-1004-41AA-A705-E2CC93720F45",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "37691143-A5A9-4617-B835-7E6B13342C9D",
+    "height": 229,
+    "width": 316,
+    "x": 1907,
+    "y": 2879
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "878AA386-E29F-4A77-87D4-3780FAFB09F7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1E8B8E2D-CA24-4CE6-A022-5A82B40BFBA4"
+    }
+  ],
+  "name": "Mixin / Fill / New / Sherpa Green",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA71D0AF-06AC-415A-AFF3-DDDB5583780E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E2381417-91E1-48CE-A66D-EBDC2D9C76FE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B3D27D80-1D74-4DD3-BA32-6AC901CE4493",
+    "guides": [
+    ]
+  }
+}

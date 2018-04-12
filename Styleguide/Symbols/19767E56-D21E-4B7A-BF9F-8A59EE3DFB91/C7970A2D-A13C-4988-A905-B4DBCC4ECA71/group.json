@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "C7970A2D-A13C-4988-A905-B4DBCC4ECA71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 131,
+    "width": 135,
+    "x": 171,
+    "y": 31
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "978A2A08-18A7-4450-8516-CD3FA13D70CB"
+    },
+    {
+      "class": "text",
+      "id": "AA25AB09-8278-4281-BEDE-BA18735364E0"
+    },
+    {
+      "class": "text",
+      "id": "B23A59E3-9CBB-4A55-A40B-80E8CDB12C22"
+    }
+  ],
+  "name": "Footer Menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 29,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

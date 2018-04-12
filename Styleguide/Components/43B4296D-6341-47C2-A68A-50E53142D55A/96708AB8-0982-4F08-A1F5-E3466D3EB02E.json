@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "96708AB8-0982-4F08-A1F5-E3466D3EB02E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C82D66C-FF77-484C-8F56-3FE991F425F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3859A612-392F-4B23-AB51-B77CA3B6A35A",
+    "height": 35,
+    "width": 26,
+    "x": 206,
+    "y": 384
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Place de la Bastille Pin",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CF6F7490-0139-4FAC-88F6-85E3F05F1E26",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8E599C28-9A65-461E-B621-9A311C2A77A0",
+  "verticalSpacing": 0
+}

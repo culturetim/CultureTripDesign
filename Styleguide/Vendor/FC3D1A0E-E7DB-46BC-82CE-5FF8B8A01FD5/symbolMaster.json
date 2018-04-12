@@ -1,0 +1,106 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D9834F28-B755-42AF-833F-9397D8800A31",
+    "green": 0.4431372549019607,
+    "red": 0.3764705882352941
+  },
+  "changeIdentifier": 1638,
+  "do_objectID": "FC3D1A0E-E7DB-46BC-82CE-5FF8B8A01FD5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9E7EA1C-379F-49A2-86C1-3DEB6008A001",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8DE2163B-C8DC-4383-A1CC-CC543C1DC9DF",
+    "height": 53,
+    "width": 359,
+    "x": 7374,
+    "y": 27
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FFDD7F7D-F2DD-4F7F-8390-BB4706D4F10A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "08963B1D-8777-4192-8008-38CD7F9C0B73"
+    },
+    {
+      "class": "group",
+      "id": "DC4611BC-59EF-4059-A05C-D0B47C87365E"
+    }
+  ],
+  "name": "Search Bar / Light Search Field Focus / Filled / iOS",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9CA6D01E-8C5D-4371-BE47-373698B6B9B3",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "35AFD927-C2C3-42B5-BF38-3F59E08DEE49",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "130115F5-683E-4969-80B3-810B057365C2",
+    "guides": [
+    ]
+  }
+}

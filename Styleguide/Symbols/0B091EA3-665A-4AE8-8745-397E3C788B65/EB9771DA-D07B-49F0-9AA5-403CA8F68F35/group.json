@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "EB9771DA-D07B-49F0-9AA5-403CA8F68F35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 70,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C33BCF23-0BDF-4586-ABEC-1695F1C9FCB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFF0721C-CA51-4364-A108-95F84F9CB7CC"
+    },
+    {
+      "class": "text",
+      "id": "3D7C2FB0-98FB-4E6E-85A2-62013C7EA38F"
+    }
+  ],
+  "name": "Controls / Fullscreen / Mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8FBB4F89-2C16-4522-B583-DF51A9E1B2FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 65,
+    "width": 772,
+    "x": 0,
+    "y": 260
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Search / Suggestion / Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "38F0751F-7E81-4707-A544-D12DADAB1617_stringValue",
+      "value": "Music"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "28D20F74-1399-4617-BD4C-E39EF6FE3708/4DEB3CFC-C99A-482C-A240-86A036A74055_symbolID",
+      "value": "6FAD559E-1DE6-404A-A1A9-9145C1AD9644"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CB28D26-311B-450E-8191-54CD2F531244",
+      "overrideName": "28D20F74-1399-4617-BD4C-E39EF6FE3708/66928113-DE93-440D-9ED6-1303CB033213_symbolID",
+      "value": "1E04EE3F-CF0F-47CF-9C3C-2C87752419E0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A2EA485-93C4-4747-8FA4-94556BB81D41",
+      "overrideName": "28D20F74-1399-4617-BD4C-E39EF6FE3708/4DEB3CFC-C99A-482C-A240-86A036A74055/DE5D390E-DBB0-4B7D-B697-D00BBFDC5D14_symbolID",
+      "value": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1CCB79D1-94F0-4948-A33C-8B3F00A58E67",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

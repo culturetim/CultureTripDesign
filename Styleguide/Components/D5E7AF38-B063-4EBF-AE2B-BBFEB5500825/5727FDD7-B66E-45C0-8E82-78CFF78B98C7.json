@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5727FDD7-B66E-45C0-8E82-78CFF78B98C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9518555F-58C1-4DF8-A64F-EF2430086737",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF7EC297-6FC6-4BDB-9998-43BCBE70B379",
+    "height": 100,
+    "width": 300,
+    "x": 38,
+    "y": 10
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1️⃣ Card",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6671FFD-86F5-4EE3-AD4C-DBB1CFAE12E6",
+      "overrideName": "5FF0018D-FF3A-46A8-9497-A5F44C10EE04_stringValue",
+      "value": "Eiffel Tower"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "998EF4EE-E32E-4725-A0D3-D4B8B17FC4D9",
+      "overrideName": "92E0B43D-81D6-4231-B5CB-1CB603EFF68F_stringValue",
+      "value": "Champ de Mars, 5 Avenue Anatol..."
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6EADB43-165F-41D7-A430-EC7900C22770",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D05A6104-7A16-4E9F-BAFA-F57A10074C71",
+  "verticalSpacing": 0
+}

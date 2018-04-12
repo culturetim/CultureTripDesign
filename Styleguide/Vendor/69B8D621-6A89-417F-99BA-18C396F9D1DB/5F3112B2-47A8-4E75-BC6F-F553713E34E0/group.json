@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "5F3112B2-47A8-4E75-BC6F-F553713E34E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1FEF84CD-2B0F-4E83-8C31-149C6C05AA0F"
+    },
+    {
+      "class": "group",
+      "id": "0DBC9B64-A115-4E96-8C08-60DF7E990461"
+    },
+    {
+      "class": "group",
+      "id": "FCFD4226-8BC3-4B8C-A461-C0CB2200D709"
+    },
+    {
+      "class": "group",
+      "id": "44646332-EA30-4B7B-A52E-92BFCAAD942E"
+    }
+  ],
+  "name": "ChromeBar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

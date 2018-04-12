@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F66A1A8C-D3B9-441F-9D07-2588ACC66B49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0C8C573-AA3A-4B14-94D2-2BF2A162FA33",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A6E5662-0083-4560-9E9F-D13722F776A9",
+    "height": 35,
+    "width": 26,
+    "x": 693,
+    "y": 323
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Père Lachaise Cemetery Pin",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1FE2ABDF-A72F-42B6-912B-90269E8FAD95",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8E599C28-9A65-461E-B621-9A311C2A77A0",
+  "verticalSpacing": 0
+}
