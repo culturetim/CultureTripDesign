@@ -29,7 +29,7 @@
             "minimumLineHeight": 60
           }
         },
-        "length": 10,
+        "length": 22,
         "location": 0
       },
       {
@@ -59,7 +59,7 @@
           }
         },
         "length": 1,
-        "location": 10
+        "location": 22
       },
       {
         "_class": "stringAttribute",
@@ -88,7 +88,7 @@
           }
         },
         "length": 10,
-        "location": 11
+        "location": 23
       },
       {
         "_class": "stringAttribute",
@@ -117,7 +117,7 @@
           }
         },
         "length": 5,
-        "location": 21
+        "location": 33
       },
       {
         "_class": "stringAttribute",
@@ -146,7 +146,7 @@
           }
         },
         "length": 1,
-        "location": 26
+        "location": 38
       },
       {
         "_class": "stringAttribute",
@@ -175,10 +175,10 @@
           }
         },
         "length": 46,
-        "location": 27
+        "location": 39
       }
     ],
-    "string": "Styleguide\nfile id   5394*\nYou must check file id before posting to Plant"
+    "string": "KACTUS TEST STYLEGUIDE\nfile id   5394*\nYou must check file id before posting to Plant"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "CEBC061B-5A22-4A4A-B9BD-7417E81915F0",
@@ -196,18 +196,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 180,
-    "width": 477,
-    "x": -127.5,
+    "width": 612,
+    "x": -195,
     "y": -20
   },
-  "glyphBounds": "{{0, 16}, {476, 158}}",
+  "glyphBounds": "{{3, 16}, {607, 158}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Styleguide file id 5",
+  "name": "KACTUS TEST STYLEGUI",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
