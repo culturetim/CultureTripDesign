@@ -9,6 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
+            "blue": 1,
+            "green": 0.0980392156862745,
+            "red": 0.2313725490196082
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "ProximaNova-Bold",
+              "size": 48
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 60,
+            "minimumLineHeight": 60
+          }
+        },
+        "length": 10,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
             "blue": 0.07138312608003616,
             "green": 0.06043318659067154,
             "red": 0.05482973903417587
@@ -29,8 +58,8 @@
             "minimumLineHeight": 60
           }
         },
-        "length": 11,
-        "location": 0
+        "length": 1,
+        "location": 10
       },
       {
         "_class": "stringAttribute",
@@ -137,9 +166,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.07138312608003616,
-          "green": 0.06043318659067154,
-          "red": 0.05482973903417587
+          "blue": 1,
+          "green": 0.0980392156862745,
+          "red": 0.2313725490196082
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
