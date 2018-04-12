@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "034BC313-8B26-440F-BC7F-782A9F0A5AF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1AE36258-619C-4CCB-834D-97190430EA64",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D51E436-69E6-4540-A9DA-BADFB0786014",
+    "height": 28,
+    "width": 28,
+    "x": 14,
+    "y": 10
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "💎 Search Glyph",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05A0E328-F32E-4092-BCC9-653BF773A685",
+      "overrideName": "0A4B0636-0A6E-43ED-B0F0-5E6D1A42D429_symbolID",
+      "value": "A5AB7B5F-E650-48A5-BA64-5A7748667787"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7620833-6E16-49CB-A479-F53037205EB4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3E13B542-FBDC-4CDF-9F40-1EC1E7D4AF20",
+  "verticalSpacing": 0
+}

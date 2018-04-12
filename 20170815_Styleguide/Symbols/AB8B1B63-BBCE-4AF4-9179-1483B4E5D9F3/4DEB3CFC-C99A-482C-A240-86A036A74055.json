@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "↳ 💎Icon",
   "nameIsFixed": true,
   "overrideValues": [
@@ -38,11 +34,6 @@
       "value": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
     }
   ],
-  "overrides": {
-    "7AFBA8C2-B9D0-4445-B354-5F0FD944BCA7": {
-      "symbolID": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

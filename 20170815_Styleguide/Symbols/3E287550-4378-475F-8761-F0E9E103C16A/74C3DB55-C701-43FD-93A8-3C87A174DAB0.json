@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "74C3DB55-C701-43FD-93A8-3C87A174DAB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14849D8A-36F9-464B-8281-A067F24ABF22",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "700E53E9-5431-4B10-979C-A8D53261E247",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 8
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Map Pin",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0153BAB6-4753-423A-B4E2-9067B1A6BBD8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9C78C97E-A213-4D80-BF0D-3D859076F6E1",
+  "verticalSpacing": 0
+}

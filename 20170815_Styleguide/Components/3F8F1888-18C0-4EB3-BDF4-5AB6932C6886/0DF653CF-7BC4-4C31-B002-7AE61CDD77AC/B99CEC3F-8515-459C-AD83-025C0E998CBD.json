@@ -1,10 +1,68 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGm5xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJQcIERIYJSYnKCkxNTw/Q0tMTU5PU1diZWlscHFzf4OIi46Pk5dVJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgCKAA4AkXxAyRmluZCBleGNpdGluZyB0aGluZ3MgdG8gc2VlICYgZG8gd2hlcmV2ZXIgeW91IGFyZSHSEwwUF1pOUy5vYmplY3RzohUWgASAHIAX0xkTDBofJFdOUy5rZXlzpBscHR6ABYAGgAeACKQgISIjgAmADYAVgBqAG1dOU0NvbG9yXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVWTlNLZXJu1CorLAwtLi8wVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJzAuNDY2NjY2NjY2NyAwLjQ2NjY2NjY2NjcgMC40NjY2NjY2NjY3ABABgAqADNIyDDM0VE5TSUQQAYAL0jY3ODlaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiOjtcTlNDb2xvclNwYWNlWE5TT2JqZWN00jY3PT5XTlNDb2xvcqI9O9IMQEFCXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xkTDERHSqJFRoAPgBCiSEmAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QEFByb3hpbWFOb3ZhLUJvb2vSNjdQUV8QE05TTXV0YWJsZURpY3Rpb25hcnmjUFI7XE5TRGljdGlvbmFyedI2N1RVXxAQTlNGb250RGVzY3JpcHRvcqJWO18QEE5TRm9udERlc2NyaXB0b3LWWFlaWwxcXV5fYGFfWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACAGCNAMgAAAAAAAIAWgBnSEwxjF6CAF9I2N2ZnXk5TTXV0YWJsZUFycmF5o2ZoO1dOU0FycmF50hMMaheggBfSNjdtbl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo21vO18QEE5TUGFyYWdyYXBoU3R5bGUjv+FHriAAAADSNjdScqJSO9MZEwx0eSSkGxwdHoAFgAaAB4AIpHohfH2AHYANgB6AIYAb1CorLAyALi8wTxAnMC40NjY2NjY2NjY3IDAuNDY2NjY2NjY2NyAwLjQ2NjY2NjY2NjcAgAqADNZYWVpbDFxdhV+GYV+AAIAggB+AGdITDIkXoIAX0hMMjBeggBcQANKQDJGSV05TLmRhdGFEMQABAYAj0jY3lJVdTlNNdXRhYmxlRGF0YaOUljtWTlNEYXRh0jY3mJlfEBJOU0F0dHJpYnV0ZWRTdHJpbmeimjtfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRnZ5Ucm9vdIABAAgAEQAaACMALQAyADcAXwBlAG4AdwCJAJYAnQCfAKEAowClANoA3wDqAO0A7wDxAPMA+gECAQcBCQELAQ0BDwEUARYBGAEaARwBHgEmAUgBWwFiAWsBcQF+AZMBvQG/AcEBwwHIAc0BzwHRAdYB4QHqAfcB+gIHAhACFQIdAiACJQJCAkQCRgJNAlACUgJUAlcCWQJbAl0CcwKJApICpQKqAsACxALRAtYC6QLsAv8DDAMXAyMDNQNCA1QDVgNYA2EDYwNlA2oDawNtA3IDgQOFA40DkgOTA5UDmgO0A7gDywPUA9kD3APjA+gD6gPsA+4D8AP1A/cD+QP7A/0D/wQIBDIENAQ2BEMERQRHBEkESwRQBFEEUwRYBFkEWwRdBGIEagRvBHEEdgSEBIgEjwSUBKkErATBBNME1gTbAAAAAAAAAgEAAAAAAAAAnwAAAAAAAAAAAAAAAAAABN0="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4666666667,
+            "green": 0.4666666667,
+            "red": 0.4666666667
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "ProximaNova-Regular",
+              "size": 12
+            }
+          },
+          "kerning": -0.5400000214576721,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
+          }
+        },
+        "length": 49,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4666666667,
+            "green": 0.4666666667,
+            "red": 0.4666666667
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "ProximaNova-Regular",
+              "size": 12
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
+          }
+        },
+        "length": 1,
+        "location": 49
+      }
+    ],
+    "string": "Find exciting things to see & do wherever you are!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B99CEC3F-8515-459C-AD83-025C0E998CBD",
@@ -24,10 +82,9 @@
     "height": 36,
     "width": 141,
     "x": 57.89990234375,
-    "y": 61.5
+    "y": 62.5
   },
-  "glyphBounds": "{{0, 5}, {133, 30}}",
-  "heightIsClipped": false,
+  "glyphBounds": "{{0, 4}, {133, 30}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -48,18 +105,27 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.4666666667,
           "green": 0.4666666667,
           "red": 0.4666666667
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QEFByb3hpbWFOb3ZhLUJvb2vSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA5gDrAPYA/wEVARkBJgEvATQBRwFKAV0BbwFyAXcAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABeQ=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "ProximaNova-Regular",
+            "size": 12
+          }
         },
-        "NSKern": -0.5400000214576721,
-        "NSParagraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBQYHyJVJG51bGzWCQoLDA0ODxAREhMRWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzViRjbGFzc18QD05TTWF4TGluZUhlaWdodIAAgAQjQDIAAAAAAACAAoAF0hUNFhdaTlMub2JqZWN0c6CAA9IZGhscWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjGx0eV05TQXJyYXlYTlNPYmplY3TSFQ0gF6CAA9IZGiMkXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjIyUeXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwA+AEQAUQBcAGgAegCHAI4AoACiAKQArQCvALEAtgDBAMIAxADJANQA3QDsAPAA+AEBAQYBBwEJAQ4BKAEsAT8BUQFUAVkAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABWw=="
+        "kerning": -0.5400000214576721,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 0

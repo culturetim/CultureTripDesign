@@ -65,7 +65,6 @@
           "elipseLength": 0,
           "from": "{0.86237735001123494, 1.17851014434878}",
           "gradientType": 0,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",

@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 232,
+    "height": 168,
     "width": 1148,
     "x": 0,
     "y": 179
@@ -23,19 +23,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "D8F1C058-F169-4E08-9A62-FF26E0550CC6"
+      "class": "symbolInstance",
+      "id": "DC23D3F7-17B5-4334-87BB-2D9EDF8DFCD3"
     },
     {
-      "class": "text",
-      "id": "2FDC2E2A-85D2-4C43-8F25-924FBC1380BA"
-    },
-    {
-      "class": "text",
-      "id": "3890AB2F-10F7-4184-BDDF-D67D70CE49FA"
+      "class": "symbolInstance",
+      "id": "6D92B880-4465-46A0-9308-B5B473433DA4"
     }
   ],
   "name": "Title",

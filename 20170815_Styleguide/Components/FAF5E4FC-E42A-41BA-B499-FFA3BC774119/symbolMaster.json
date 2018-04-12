@@ -7,7 +7,7 @@
     "green": 0.4392156862745098,
     "red": 0.4392156862745098
   },
-  "changeIdentifier": 328,
+  "changeIdentifier": 710,
   "do_objectID": "FAF5E4FC-E42A-41BA-B499-FFA3BC774119",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 82,
+    "height": 149,
     "width": 473,
-    "x": 3536,
-    "y": -3527
+    "x": 3486,
+    "y": -3674
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,18 +39,27 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "87514F3C-CE42-4B7F-B14E-6E0CFF38D37E"
+    },
+    {
       "class": "text",
-      "id": "510C07CA-CD3B-4FE1-9A43-1FC93B1B6AB1"
+      "id": "FAE5A18E-0816-40F4-A9F3-F016E7D36F85"
+    },
+    {
+      "class": "text",
+      "id": "69684FC7-A64A-497E-8331-B8E1CC1B88C4"
     }
   ],
-  "name": "Listing / Feature / Desktop / Body / Two Line",
+  "name": "Tile / Feature / Data / Desktop / Two Lines",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

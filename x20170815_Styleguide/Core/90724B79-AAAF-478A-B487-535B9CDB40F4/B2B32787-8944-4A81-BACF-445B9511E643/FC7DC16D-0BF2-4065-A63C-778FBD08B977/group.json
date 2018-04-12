@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "FC7DC16D-0BF2-4065-A63C-778FBD08B977",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 232,
+    "width": 1148,
+    "x": 0,
+    "y": 2547
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5982853D-FB62-4C0A-B435-CF9F2E9C923E"
+    },
+    {
+      "class": "text",
+      "id": "C6376D6D-EA46-4B15-9DCD-D6A4D6B6A76F"
+    },
+    {
+      "class": "text",
+      "id": "65889BCC-D685-4F46-AD42-FB3D7386ED8B"
+    }
+  ],
+  "name": "Medium Tile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

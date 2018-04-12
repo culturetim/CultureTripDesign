@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -48,7 +49,7 @@
       "id": "20D3D614-33D5-4416-BD3D-EE4FEAFE4EE4"
     }
   ],
-  "name": "App Promo / AppStore / Button",
+  "name": "App Promo / App Store",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

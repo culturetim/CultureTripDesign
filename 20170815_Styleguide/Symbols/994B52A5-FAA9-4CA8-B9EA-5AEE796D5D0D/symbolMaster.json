@@ -7,7 +7,7 @@
     "green": 0.9568627450980391,
     "red": 0.9568627450980391
   },
-  "changeIdentifier": 921,
+  "changeIdentifier": 925,
   "do_objectID": "994B52A5-FAA9-4CA8-B9EA-5AEE796D5D0D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,7 +49,7 @@
       "id": "6B8951FF-F691-4A18-BDAB-29594173F3E9"
     }
   ],
-  "name": "Listing/ Heading / Desktop",
+  "name": "Feed / Heading / Desktop",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

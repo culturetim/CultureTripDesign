@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Search / Suggestion / Item",
   "nameIsFixed": false,
   "overrideValues": [
@@ -42,14 +38,6 @@
       "value": "1B7412FE-E52A-4FAC-8B11-3551F9CEFD95"
     }
   ],
-  "overrides": {
-    "28D20F74-1399-4617-BD4C-E39EF6FE3708": {
-      "66928113-DE93-440D-9ED6-1303CB033213": {
-        "symbolID": "1B7412FE-E52A-4FAC-8B11-3551F9CEFD95"
-      }
-    },
-    "38F0751F-7E81-4707-A544-D12DADAB1617": "Hotels in London"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

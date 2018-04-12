@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Search / Suggestion / Item",
   "nameIsFixed": false,
   "overrideValues": [
@@ -54,20 +50,6 @@
       "value": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
     }
   ],
-  "overrides": {
-    "28D20F74-1399-4617-BD4C-E39EF6FE3708": {
-      "4DEB3CFC-C99A-482C-A240-86A036A74055": {
-        "EF575F6B-03F7-4373-AF73-5F78D6C159B0": {
-          "symbolID": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
-        },
-        "symbolID": "4427E1F4-77F7-4506-AAD5-B5240F03945D"
-      },
-      "66928113-DE93-440D-9ED6-1303CB033213": {
-        "symbolID": "1E04EE3F-CF0F-47CF-9C3C-2C87752419E0"
-      }
-    },
-    "38F0751F-7E81-4707-A544-D12DADAB1617": "Food & Drink"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

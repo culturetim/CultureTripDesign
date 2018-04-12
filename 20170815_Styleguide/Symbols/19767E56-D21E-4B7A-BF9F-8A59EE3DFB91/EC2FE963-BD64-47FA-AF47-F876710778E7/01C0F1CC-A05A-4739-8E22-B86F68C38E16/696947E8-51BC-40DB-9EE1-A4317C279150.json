@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Instagram icon",
   "nameIsFixed": true,
   "overrideValues": [
@@ -37,11 +33,6 @@
       "value": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
     }
   ],
-  "overrides": {
-    "1F5F0616-D446-403B-B1E2-D1F261DE8B93": {
-      "symbolID": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

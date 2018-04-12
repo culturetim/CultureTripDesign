@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3817,
+  "changeIdentifier": 3868,
   "do_objectID": "19767E56-D21E-4B7A-BF9F-8A59EE3DFB91",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -74,6 +75,13 @@
   ],
   "name": "Footer / Mobile",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 320,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 568
+  },
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -48,7 +49,7 @@
       "id": "F1A69D18-EADB-482A-A69A-6126C7E44D72"
     }
   ],
-  "name": "Widget / Mobile",
+  "name": "Weather Widget / Mobile",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

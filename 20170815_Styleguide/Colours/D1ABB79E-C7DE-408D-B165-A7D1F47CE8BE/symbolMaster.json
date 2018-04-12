@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A607B3EC-4E6E-468A-8A3D-0091F339CFF8",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2065,
+  "do_objectID": "D1ABB79E-C7DE-408D-B165-A7D1F47CE8BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5BBDC87F-D40E-4DDE-874C-1E7E840D7616",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32276525-6F93-4ECA-91A9-0323B4772E4E",
+    "height": 229,
+    "width": 316,
+    "x": 3371,
+    "y": 2879
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D019CAF7-9C6C-4EAF-9AF3-1A461C032E1E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "479C3919-6D40-4901-8C37-0D13619DCE00"
+    }
+  ],
+  "name": "Mixin / Fill / New / Skeptic",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0693F56-A5FF-49D5-A0E3-E671F3F31718",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "682FF6A5-7650-46F2-8A48-A1A6696548D7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "89DF203F-276E-40F3-8BF9-EEF4C40F7718",
+    "guides": [
+    ]
+  }
+}

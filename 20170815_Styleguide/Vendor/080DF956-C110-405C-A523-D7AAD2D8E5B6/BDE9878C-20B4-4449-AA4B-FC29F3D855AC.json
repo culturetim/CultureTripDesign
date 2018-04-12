@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BDE9878C-20B4-4449-AA4B-FC29F3D855AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62830C69-1656-43BE-8998-88B60FDB80C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D3BD898-7F4F-4F1F-A7B4-462D5CD9F4E4",
+    "height": 32,
+    "width": 48,
+    "x": 0,
+    "y": 3
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab Bar / Icons / Explore / Inactive / iOS",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F09B5235-7AA1-4BBA-93AF-9FBB5EBABBBE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "62B94B48-6644-414B-A01A-A078A342D7B8",
+  "verticalSpacing": 0
+}

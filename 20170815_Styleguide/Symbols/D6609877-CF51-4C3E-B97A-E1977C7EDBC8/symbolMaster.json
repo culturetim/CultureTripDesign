@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2040,
+  "changeIdentifier": 2043,
   "do_objectID": "D6609877-CF51-4C3E-B97A-E1977C7EDBC8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -50,6 +51,13 @@
   ],
   "name": "Spotlight / Home / Mobile",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 320,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 568
+  },
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

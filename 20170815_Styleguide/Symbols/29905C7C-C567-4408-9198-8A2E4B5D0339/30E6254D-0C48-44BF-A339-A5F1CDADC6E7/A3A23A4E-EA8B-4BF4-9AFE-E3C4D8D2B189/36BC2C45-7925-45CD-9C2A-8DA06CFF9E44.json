@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Chevron-Down",
   "nameIsFixed": true,
   "overrideValues": [
@@ -35,13 +31,14 @@
       "_class": "overrideValue",
       "overrideName": "D80FD703-1641-4913-9974-92A5A242382B_symbolID",
       "value": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E3A7645D-08AA-4AAB-A2FF-8B6A5957717D",
+      "overrideName": "FA865303-EEB9-4A6B-9AFF-754037433472_symbolID",
+      "value": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
     }
   ],
-  "overrides": {
-    "D80FD703-1641-4913-9974-92A5A242382B": {
-      "symbolID": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
-    }
-  },
   "resizingConstraint": 59,
   "resizingType": 0,
   "rotation": 0,

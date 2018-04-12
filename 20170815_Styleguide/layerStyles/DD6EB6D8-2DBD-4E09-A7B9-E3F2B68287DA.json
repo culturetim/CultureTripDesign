@@ -1,0 +1,28 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "DD6EB6D8-2DBD-4E09-A7B9-E3F2B68287DA",
+  "name": "Palette/UI/Border/Silver Chalice",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.615686274509804,
+          "green": 0.615686274509804,
+          "red": 0.615686274509804
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "DD6EB6D8-2DBD-4E09-A7B9-E3F2B68287DA",
+    "startDecorationType": 0
+  }
+}

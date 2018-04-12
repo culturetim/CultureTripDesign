@@ -13,29 +13,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 232,
+    "height": 64,
     "width": 1148,
     "x": 0,
-    "y": 475
+    "y": 477
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "ADAECA26-475A-4839-8B29-6CD68298E2E7"
+      "class": "symbolInstance",
+      "id": "0019FCFC-1780-4F0F-A909-4F2D53354B34"
     },
     {
-      "class": "text",
-      "id": "FA0FF54B-7708-44B5-ADE7-9D3B7A47D599"
-    },
-    {
-      "class": "text",
-      "id": "7A9ECC50-452D-4320-A25C-263C1EB0D994"
+      "class": "symbolInstance",
+      "id": "D77A8DFB-6D7E-46DD-9670-FFFCAE4959C1"
     }
   ],
   "name": "Subtitle",

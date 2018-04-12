@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Title",
   "nameIsFixed": true,
   "overrideValues": [
@@ -37,9 +33,6 @@
       "value": "Suggested Locations"
     }
   ],
-  "overrides": {
-    "5E010272-9DE0-42FE-92C4-751C09621689": "Suggested Locations"
-  },
   "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,

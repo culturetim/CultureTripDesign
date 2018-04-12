@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Desktop",
   "nameIsFixed": true,
   "overrideValues": [
@@ -37,11 +33,6 @@
       "value": "0A0FA5EA-5AB7-42E1-9A9F-B458459D2CCF"
     }
   ],
-  "overrides": {
-    "6A19E8C9-E387-42BD-AF37-AE0C2B0E7E7B": {
-      "symbolID": "0A0FA5EA-5AB7-42E1-9A9F-B458459D2CCF"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

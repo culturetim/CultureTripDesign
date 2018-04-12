@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 236,
+    "height": 44,
     "width": 1148,
     "x": 0,
     "y": 3135
@@ -25,10 +25,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "4B0DD3B6-053D-40EB-A3EC-BA9ADD7E71D1"
-    },
     {
       "class": "text",
       "id": "2360E16F-2A85-4A1D-B44C-EC3C8AEA36C7"

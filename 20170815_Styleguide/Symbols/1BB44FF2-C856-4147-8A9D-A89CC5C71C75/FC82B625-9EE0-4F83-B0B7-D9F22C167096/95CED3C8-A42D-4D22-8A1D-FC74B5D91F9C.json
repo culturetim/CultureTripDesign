@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Weather Icon",
   "nameIsFixed": true,
   "overrideValues": [
@@ -37,11 +33,6 @@
       "value": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
     }
   ],
-  "overrides": {
-    "B3EF8EAD-F6F2-4C9B-BC1E-71261B5532D0": {
-      "symbolID": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
-    }
-  },
   "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,

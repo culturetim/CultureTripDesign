@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "508D9ACB-7739-4250-8F10-D1DD71A1FEEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 294,
+    "x": 0,
+    "y": 88
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1A3425D3-189F-41EE-8E6D-B68E64C9D85B"
+    },
+    {
+      "class": "text",
+      "id": "12E19C86-3B60-44E0-BFB5-864C820D2A10"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "172EFC8B-9A4B-44E3-87AC-E58CA4EA0A59"
+    }
+  ],
+  "name": "Search Bar - Mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

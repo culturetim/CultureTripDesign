@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Icon / Chevron / Right",
   "nameIsFixed": false,
   "overrideValues": [
@@ -38,11 +34,6 @@
       "value": "1B7412FE-E52A-4FAC-8B11-3551F9CEFD95"
     }
   ],
-  "overrides": {
-    "ED9F2222-5F77-48F6-99AA-764B3B93DEEA": {
-      "symbolID": "1B7412FE-E52A-4FAC-8B11-3551F9CEFD95"
-    }
-  },
   "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,

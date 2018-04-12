@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "841656F8-00FD-489B-A010-E4BC784CC50A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D7AEE5E-B4E6-4250-8E01-145AEFC0BEF0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E59CA81D-84AE-48E1-B533-1A73AD2D17C8",
+    "height": 28,
+    "width": 28,
+    "x": 11,
+    "y": 8
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "💎 Glyph",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5372ADA5-F6E2-42A6-BC3B-4E7DF1128CE6",
+      "overrideName": "DC204DFB-F416-408B-923F-5FCFE14FF702_symbolID",
+      "value": "A5AB7B5F-E650-48A5-BA64-5A7748667787"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A8240BA-958E-44C8-A28D-1F64916394F1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "79328AA2-FB0D-4ECD-AA99-6EA25C05A4C2",
+  "verticalSpacing": 0
+}

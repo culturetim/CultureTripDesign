@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 202,
+  "changeIdentifier": 222,
   "do_objectID": "C9F1E1C8-B90C-4982-A4B6-FAB18E5A3306",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 97,
     "width": 219,
     "x": 3282,
-    "y": -2519
+    "y": -2429
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -56,9 +57,9 @@
       "id": "C7C7CEE0-5B56-4971-BE0A-EC95742A9DE9"
     }
   ],
-  "name": "Listing / Small / Desktop / Body / Three Line",
+  "name": "Tile / Small / Data / Desktop",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

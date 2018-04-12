@@ -1,10 +1,64 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGoqNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QLAcIERIYJSYnKCkxNDo9QUlKS0xNUVVhYmNkZWZnaGlrbHh7g4SQkZKTlpqeVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoApgAOAK2vYPdxJACAAQQBkACAAUwBpAHoAZQBz0hMMFBdaTlMub2JqZWN0c6IVFoAEgCCAKNMZEwwaHyRXTlMua2V5c6QbHB0egAWABoAHgAikICEiI4AJgA2AFYAfgB5fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7UKgwrLC0uLy9aTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAMgAqACtITDDIzoIAL0jU2NzhaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojc5WE5TT2JqZWN00jU2OzxfEBBOU1BhcmFncmFwaFN0eWxlojs50gw+P0BfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TGRMMQkVIokNEgA+AEKJGR4ARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0BSAAAAAAAAXxAPQXBwbGVDb2xvckVtb2pp0jU2Tk9fEBNOU011dGFibGVEaWN0aW9uYXJ5o05QOVxOU0RpY3Rpb25hcnnSNTZSU18QEE5TRm9udERlc2NyaXB0b3KiVDlfEBBOU0ZvbnREZXNjcmlwdG9y0xkTDFZbJKRXWFlagBaAF4AYgBmkXF1eX4AagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8sbGxsbGxojP/AAAAAAAAAjP8sbGxsbGxojP8sbGxsbGxrSNTZQaqJQOSK/QAAA0xkTDG1yJKQbHB0egAWABoAHgAikIHR1I4AJgCGAJIAfgB7SDD4/eoAUgCLTGRMMfH9IokNEgA+AEKJGgYARgCOAE18QFFByb3hpbWFOb3ZhLVNlbWlib2xk0xkTDIWKJKRXWFlagBaAF4AYgBmki12NjoAlgBuAJoAngB4jP8sbGxsbGxojP8sbGxsbGxojP8sbGxsbGxrSNTaUlV5OU011dGFibGVBcnJheaOUNznSlwyYmVdOUy5kYXRhRAIACQGAKtI1NpucXU5TTXV0YWJsZURhdGGjm505Vk5TRGF0YdI1Np+gXxASTlNBdHRyaWJ1dGVkU3RyaW5noqE5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0aSlVHJvb3SAAQAIABEAGgAjAC0AMgA3AGYAbAB1AH4AkACdAKQApgCoAKoArADDAMgA0wDWANgA2gDcAOMA6wDwAPIA9AD2APgA/QD/AQEBAwEFAQcBGgE8AWkBcAF5AYQBkQGdAZ8BoQGjAaUBqgGrAa0BsgG9AcYBzgHRAdoB3wHyAfUB+gIXAhkCGwIiAiUCJwIpAiwCLgIwAjICSAJeAmcCeQJ+ApQCmAKlAqoCvQLAAtMC2gLfAuEC4wLlAucC7ALuAvAC8gL0AvYC+gMAAwUDCwMUAx0DJgMvAzQDNwM8A0MDSANKA0wDTgNQA1UDVwNZA1sDXQNfA2QDZgNoA28DcgN0A3YDeQN7A30DfwOWA50DogOkA6YDqAOqA68DsQOzA7UDtwO5A8IDywPUA9kD6APsA/ED+QP+BAAEBQQTBBcEHgQjBDgEOwRQBGIEZQRqAAAAAAAAAgEAAAAAAAAApgAAAAAAAAAAAAAAAAAABGw="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2117647058823529,
+            "green": 0.2117647058823529,
+            "red": 0.2117647058823529
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AppleColorEmoji",
+              "size": 72
+            }
+          },
+          "kerning": -0.75,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 2,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2117647058823529,
+            "green": 0.2117647058823529,
+            "red": 0.2117647058823529
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "ProximaNova-Semibold",
+              "size": 72
+            }
+          },
+          "kerning": -0.75,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 9,
+        "location": 2
+      }
+    ],
+    "string": "👉 Ad Sizes"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DC06C600-3254-4564-8D83-D46958EFE04E",
@@ -27,7 +81,6 @@
     "y": -860
   },
   "glyphBounds": "{{0, 5}, {359, 73}}",
-  "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -48,18 +101,25 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.2117647058823529,
           "green": 0.2117647058823529,
           "red": 0.2117647058823529
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAUgAAAAAAAF8QD0FwcGxlQ29sb3JFbW9qadIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDlAOoA9QD+ARQBGAElAS4BMwFGAUkBXAFuAXEBdgAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF4"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AppleColorEmoji",
+            "size": 72
+          }
         },
-        "NSKern": -0.75,
-        "NSParagraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGHh9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PD1pOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAEgAKAAtISChMUWk5TLm9iamVjdHOggAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGBpYTlNPYmplY3TSFhccHV8QEE5TUGFyYWdyYXBoU3R5bGWiHBpfEA9OU0tleWVkQXJjaGl2ZXLRICFUcm9vdIABCBEaIy0yNz1DTFdea3d5e31/hI+Qkpeiq7O2v8TX2uzv9AAAAAAAAAEBAAAAAAAAACIAAAAAAAAAAAAAAAAAAAD2"
+        "kerning": -0.75,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

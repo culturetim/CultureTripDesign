@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2863,
+  "changeIdentifier": 2887,
   "do_objectID": "2DC08EDE-E6BF-4F29-9C7C-C8BB874522B5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 440,
-    "width": 714,
+    "width": 970,
     "x": 7386,
     "y": -673
   },
@@ -39,18 +39,31 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "12E37BEE-099F-43CC-8B31-86613D57A8CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "802318B2-690B-46B5-AE5B-852C9ADCCFCB"
+    },
+    {
       "class": "group",
-      "id": "6A8FCF28-E421-44C9-B9F6-EB3D371BADEF"
+      "id": "E1CC1D8A-F282-4F82-831D-6845DC12D75E"
+    },
+    {
+      "class": "text",
+      "id": "103DAD6A-B8BE-4448-968C-917F6498E46E"
     }
   ],
-  "name": "Spotlight / Desktop",
+  "name": "Spotlight / Location / Desktop",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

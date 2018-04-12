@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 161,
-    "width": 320,
+    "width": 375,
     "x": 0,
     "y": 0
   },
@@ -40,6 +40,10 @@
     {
       "class": "text",
       "id": "9619761E-1743-41E3-B2B6-4853F721B846"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "651F1CB2-6A05-434A-81D3-A34A999FC982"
     }
   ],
   "name": "Spotlight / Mobile",

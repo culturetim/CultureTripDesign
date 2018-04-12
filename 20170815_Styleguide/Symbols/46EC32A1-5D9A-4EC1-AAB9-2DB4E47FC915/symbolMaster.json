@@ -7,7 +7,7 @@
     "green": 0.7490196078431373,
     "red": 0.7490196078431373
   },
-  "changeIdentifier": 569,
+  "changeIdentifier": 576,
   "do_objectID": "46EC32A1-5D9A-4EC1-AAB9-2DB4E47FC915",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 55,
     "width": 60,
-    "x": 7606,
+    "x": 7527,
     "y": 328
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,16 +39,17 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "A48A28E6-B86A-4C15-9E54-984455639E42"
     }
   ],
-  "name": "Widget / Current Time / Mobile",
+  "name": "Weather Widget / Current Time / Mobile",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

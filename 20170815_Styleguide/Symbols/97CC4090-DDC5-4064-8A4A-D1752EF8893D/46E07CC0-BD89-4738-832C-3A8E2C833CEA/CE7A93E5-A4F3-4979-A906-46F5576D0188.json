@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 21,
-    "width": 122,
-    "x": 198,
+    "width": 142.96875,
+    "x": 232.03125,
     "y": 140
   },
   "horizontalSpacing": 0,
@@ -24,16 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Spotlight / Caption",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "overrides": {
-  },
   "resizingConstraint": 38,
   "resizingType": 0,
   "rotation": 0,

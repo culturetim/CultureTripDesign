@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Tab /  Item",
   "nameIsFixed": false,
   "overrideValues": [
@@ -52,18 +48,6 @@
       "value": "Places to Stay"
     }
   ],
-  "overrides": {
-    "A60A266B-DD34-4695-8AD8-BC1B58A16BA4": {
-      "symbolID": ""
-    },
-    "B40A37DB-4E51-4B73-9B2E-A9D344020460": {
-      "symbolID": ""
-    },
-    "CAD5EC2B-21AC-4A55-BF68-D76674E61612": {
-      "91BDD923-A41F-4E22-8502-7EFBC723D060": "Places to Stay",
-      "symbolID": "DE8215C1-C37D-4A67-8A84-D8BE9ADA5151"
-    }
-  },
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,

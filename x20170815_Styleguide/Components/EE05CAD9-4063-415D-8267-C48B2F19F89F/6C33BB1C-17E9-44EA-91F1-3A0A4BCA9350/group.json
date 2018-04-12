@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "6C33BB1C-17E9-44EA-91F1-3A0A4BCA9350",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 71,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "07D1D5C6-99B9-4C35-A33D-6EB3AA135CFB"
+    },
+    {
+      "class": "text",
+      "id": "06DFAD77-E420-4A15-BC94-572B7609BACB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2F0E5A3-E09F-462D-9BD6-437946B8653E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A077D47-9E61-4056-AF8D-E153A9F1474C"
+    },
+    {
+      "class": "group",
+      "id": "628042F6-856F-4B7B-AEFF-6ABFA999FCA3"
+    }
+  ],
+  "name": "Web / App Install Banner - Minimized",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

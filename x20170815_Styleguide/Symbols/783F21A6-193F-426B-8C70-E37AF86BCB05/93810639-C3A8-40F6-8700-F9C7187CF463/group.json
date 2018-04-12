@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "93810639-C3A8-40F6-8700-F9C7187CF463",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 440,
+    "width": 1280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "967B6793-46E9-4782-8338-6109D49AB628"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26A0A4AD-3D84-4372-BBE1-761203BD0A68"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFA3F4B0-1535-4AB9-9737-F8473BD5F6FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6A19E8C9-E387-42BD-AF37-AE0C2B0E7E7B"
+    },
+    {
+      "class": "text",
+      "id": "37FC12B4-AE3A-48F1-83FA-7A54C28BAC8E"
+    },
+    {
+      "class": "text",
+      "id": "713C3807-EFA2-4051-BC89-35A45C804E63"
+    }
+  ],
+  "name": "Masthead - Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

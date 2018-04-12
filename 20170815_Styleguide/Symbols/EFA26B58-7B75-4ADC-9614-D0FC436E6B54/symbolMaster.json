@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 108,
-    "x": 5966,
-    "y": -673
+    "x": 5758,
+    "y": -591
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,7 +49,7 @@
       "id": "6E55CE6A-338F-40F4-8B7E-459964CBEEA5"
     }
   ],
-  "name": "App Promo / GooglePlay / Button",
+  "name": "App Promo / Google Play",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

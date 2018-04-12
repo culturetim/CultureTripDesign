@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 441,
-  "masterInfluenceEdgeMinYPadding": 556,
   "name": "Logo",
   "nameIsFixed": true,
   "overrideValues": [
@@ -37,11 +33,6 @@
       "value": "467984B5-F953-4BF8-8B69-548A3B97F0EB"
     }
   ],
-  "overrides": {
-    "8DE52103-4658-4420-BDDB-1AB78FFD17E2": {
-      "symbolID": "467984B5-F953-4BF8-8B69-548A3B97F0EB"
-    }
-  },
   "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,

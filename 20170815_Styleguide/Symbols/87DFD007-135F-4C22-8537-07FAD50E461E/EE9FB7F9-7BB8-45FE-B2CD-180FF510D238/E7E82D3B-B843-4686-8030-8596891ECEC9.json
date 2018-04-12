@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E7E82D3B-B843-4686-8030-8596891ECEC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EF24967-8BB1-4D14-A6E1-500685A0E6E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "70D4B370-8D67-4E43-9368-D8B2E3473AED",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 7
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Time",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "14065AAD-08D0-466C-8466-076CE097EB6F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "278C3454-CAF8-4D20-8E6A-ECF9DD8B941C",
+  "verticalSpacing": 0
+}

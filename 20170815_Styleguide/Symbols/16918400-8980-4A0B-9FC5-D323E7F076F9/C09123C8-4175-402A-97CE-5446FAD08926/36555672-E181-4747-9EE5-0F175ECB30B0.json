@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Item",
   "nameIsFixed": true,
   "overrideValues": [
@@ -56,20 +52,6 @@
       "value": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
     }
   ],
-  "overrides": {
-    "1A2C7520-303A-4139-9488-EFBE88E54AA7": {
-      "4DEB3CFC-C99A-482C-A240-86A036A74055": {
-        "42920156-19CE-4648-AFFF-7BC7877ADE5B": {
-          "symbolID": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
-        },
-        "symbolID": "AD15CFA9-A4C0-4FE8-920E-EC17A6D770F6"
-      },
-      "66928113-DE93-440D-9ED6-1303CB033213": {
-        "symbolID": "1E04EE3F-CF0F-47CF-9C3C-2C87752419E0"
-      }
-    },
-    "89FEC028-A7A2-448C-9408-0EF64D57B9B4": "See & Do"
-  },
   "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,

@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Item",
   "nameIsFixed": true,
   "overrideValues": [
@@ -50,17 +46,6 @@
       "value": "Israel, Asia"
     }
   ],
-  "overrides": {
-    "1A2C7520-303A-4139-9488-EFBE88E54AA7": {
-      "4DEB3CFC-C99A-482C-A240-86A036A74055": {
-        "09CD6B8F-189D-43E8-B23B-9531FF740313": {
-          "symbolID": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
-        },
-        "symbolID": "69EDE2D9-5CCB-4D46-BA1C-C0B8FCF6F933"
-      }
-    },
-    "89FEC028-A7A2-448C-9408-0EF64D57B9B4": "Israel, Asia"
-  },
   "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,

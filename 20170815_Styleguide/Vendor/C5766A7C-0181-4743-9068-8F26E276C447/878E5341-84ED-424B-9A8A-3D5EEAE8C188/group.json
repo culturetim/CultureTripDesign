@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "878E5341-84ED-424B-9A8A-3D5EEAE8C188",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98B375E0-D570-43F0-A12A-789B334F3B6E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D57DCBFD-FCF1-4176-8A98-1575C610A1A2",
+    "height": 24,
+    "width": 24,
+    "x": 144,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FF28437F-755A-4AF3-9330-52AA75C2E51E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C55DF4B-8AAD-48D0-BB41-D13E9D21722B"
+    }
+  ],
+  "name": "💎 Glyph 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8C9D1A1F-96CF-432C-A17C-41FFAD5BF427",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

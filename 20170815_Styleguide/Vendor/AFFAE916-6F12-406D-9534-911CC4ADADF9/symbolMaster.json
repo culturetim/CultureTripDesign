@@ -1,0 +1,82 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BAD331A8-FA65-40DD-B215-AC65DE4A90AA",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 240,
+  "do_objectID": "AFFAE916-6F12-406D-9534-911CC4ADADF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F601ADA2-F44B-4850-91CC-3848F320A8D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F650F899-3C03-4816-ACAA-FC222F4863FA",
+    "height": 44,
+    "width": 180,
+    "x": 7574,
+    "y": -391
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AEBAFC36-D569-4AA6-B18B-BAF4C40162D8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "919CFDCA-7734-4CA7-B7F3-0C167DA40D3A"
+    },
+    {
+      "class": "text",
+      "id": "2AC78CFE-F5C3-427F-BB95-A23D7C90A2A3"
+    }
+  ],
+  "name": "Navigation Bar / Light / Right Combinations / Label Emphasized / iOS",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8DEB76FD-EB37-40A2-BB08-1A61CDA11A0F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8A222770-D677-4CC3-ABA6-52E5FC349648",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B79AEBC5-3043-4153-9F60-FBEE52EF8EF3",
+    "guides": [
+    ]
+  }
+}

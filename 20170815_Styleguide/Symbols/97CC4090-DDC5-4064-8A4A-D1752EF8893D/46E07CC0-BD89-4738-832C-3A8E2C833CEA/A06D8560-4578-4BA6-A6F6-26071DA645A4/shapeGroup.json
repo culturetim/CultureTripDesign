@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 161,
-    "width": 320,
+    "width": 375,
     "x": 0,
     "y": 0
   },
@@ -59,7 +59,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/5d8b9a455e2e22cd3e54fa7519cf956dd7ada9ff",
+          "_ref": "images/5d8b9a455e2e22cd3e54fa7519cf956dd7ada9ff.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,

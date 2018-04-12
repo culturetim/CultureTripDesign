@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Search / Suggestion / Item",
   "nameIsFixed": false,
   "overrideValues": [
@@ -54,20 +50,6 @@
       "value": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
     }
   ],
-  "overrides": {
-    "28D20F74-1399-4617-BD4C-E39EF6FE3708": {
-      "4DEB3CFC-C99A-482C-A240-86A036A74055": {
-        "3A09106D-52B5-4C48-9845-10EF1CAFE4B0": {
-          "symbolID": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
-        },
-        "symbolID": "DD98D335-B26C-4D6F-9EA3-E2FE3B620CAE"
-      },
-      "66928113-DE93-440D-9ED6-1303CB033213": {
-        "symbolID": "1E04EE3F-CF0F-47CF-9C3C-2C87752419E0"
-      }
-    },
-    "38F0751F-7E81-4707-A544-D12DADAB1617": "Art"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 130,
+  "changeIdentifier": 229,
   "do_objectID": "1CEA01C7-EB0D-43E4-8BAF-3B932957BB5B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 171,
     "width": 714,
     "x": 7386,
-    "y": 483
+    "y": 679
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,7 +49,7 @@
       "id": "B5783D08-DEB0-4823-9D56-D9115D30DDC0"
     }
   ],
-  "name": "Chips / Desktop",
+  "name": "Neighbourhoods / Tablet",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

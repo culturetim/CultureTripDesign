@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "7EFDA909-A136-4D4D-8471-53D9FB866433",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "231E7364-8A95-4B74-9ED1-0E502EF5E043",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DE04474-1903-4790-B256-8AA9B1E16377",
+    "height": 100,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "97843DB6-B9E0-4B8D-A441-C1C741CCBA1A"
+    },
+    {
+      "class": "text",
+      "id": "F4A18AD6-98BC-41A1-9BFF-EE9F6241D505"
+    },
+    {
+      "class": "text",
+      "id": "D2F22C66-05DE-4ED0-AD38-9B0A47CC762A"
+    }
+  ],
+  "name": "Web / Mobile / Map / Card / Active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3760BD28-09FA-4FA3-8E4D-CAC992F4DBFE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

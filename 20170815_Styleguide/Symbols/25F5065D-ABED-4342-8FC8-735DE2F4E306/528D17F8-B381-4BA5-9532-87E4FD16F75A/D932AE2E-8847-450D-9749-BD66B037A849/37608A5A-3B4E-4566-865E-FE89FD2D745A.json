@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Tab /  Item",
   "nameIsFixed": false,
   "overrideValues": [
@@ -47,15 +43,6 @@
       "value": "Inspire"
     }
   ],
-  "overrides": {
-    "A60A266B-DD34-4695-8AD8-BC1B58A16BA4": {
-      "symbolID": ""
-    },
-    "CAD5EC2B-21AC-4A55-BF68-D76674E61612": {
-      "7C4B37D6-350E-4907-AADF-5DC2D58EFD88": "Inspire",
-      "symbolID": "8A0C0A4B-F82D-4C40-A9E1-61FCACDD4486"
-    }
-  },
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,

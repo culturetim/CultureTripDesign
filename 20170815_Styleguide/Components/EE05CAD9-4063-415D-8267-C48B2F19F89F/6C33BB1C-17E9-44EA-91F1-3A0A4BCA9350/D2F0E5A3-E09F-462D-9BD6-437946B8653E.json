@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Icon/Cross",
   "nameIsFixed": false,
   "overrideValues": [
@@ -37,11 +33,6 @@
       "value": "1BBCB0AD-8A2A-4B2E-B3C6-B5FBB7D0DC8D"
     }
   ],
-  "overrides": {
-    "4F11DF5C-2446-4002-B029-FD822546DEC9": {
-      "symbolID": "1BBCB0AD-8A2A-4B2E-B3C6-B5FBB7D0DC8D"
-    }
-  },
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,

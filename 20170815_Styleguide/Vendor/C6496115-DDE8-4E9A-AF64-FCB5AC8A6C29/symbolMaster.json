@@ -1,0 +1,82 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A7D8E308-062E-43DD-AF0E-CDA268A34E57",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 201,
+  "do_objectID": "C6496115-DDE8-4E9A-AF64-FCB5AC8A6C29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8DBDE3DD-D13C-43E0-AB5B-A82D9292AD01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7332F364-AAEA-4BA5-8525-72204885977F",
+    "height": 44,
+    "width": 180,
+    "x": 7374,
+    "y": -327
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "038E38C2-3140-43C0-885F-C194966ABB24",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A7982842-210E-4454-9D54-E1B8C7B05F0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "841656F8-00FD-489B-A010-E4BC784CC50A"
+    }
+  ],
+  "name": "Navigation Bar / Light / Left Combinations / Action Button / iOS",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F96D8F97-1694-4AE4-BE3C-0B948373CC69",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "17EBB3EB-4AD9-4E27-80E9-A2F676F1186E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D3D2CD13-4807-4D38-AFA4-7D7EA15BEFA9",
+    "guides": [
+    ]
+  }
+}

@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 232,
+    "height": 24,
     "width": 1148,
     "x": 0,
     "y": 1067
@@ -26,16 +26,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "EFA043BB-CADE-4354-AEE0-AC434476601E"
+      "class": "symbolInstance",
+      "id": "DD4F0DC2-72D5-4497-9FF2-5FB7B3A64108"
     },
     {
-      "class": "text",
-      "id": "21D862C8-0822-4EC5-B968-D5CC2316DC52"
-    },
-    {
-      "class": "text",
-      "id": "9C1E6B47-FB36-4FDA-9DAE-E6FCBEF44B64"
+      "class": "symbolInstance",
+      "id": "360AAF81-9E5A-4B9B-B598-50CC83260070"
     }
   ],
   "name": "Sub-heading",

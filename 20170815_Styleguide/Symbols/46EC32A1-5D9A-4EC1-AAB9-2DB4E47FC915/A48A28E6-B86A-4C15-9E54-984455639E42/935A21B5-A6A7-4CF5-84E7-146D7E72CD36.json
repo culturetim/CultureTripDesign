@@ -24,10 +24,6 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Clock Icon",
   "nameIsFixed": true,
   "overrideValues": [
@@ -35,13 +31,20 @@
       "_class": "overrideValue",
       "overrideName": "73E8EB74-AFEE-4059-9492-B661BF8764D8_symbolID",
       "value": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CDEE2920-C88D-47F0-BBAB-F6F9728B4DF2",
+      "overrideName": "1483CD63-DC63-4AEE-8EC5-D99FA8F288D4_symbolID",
+      "value": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6561FC4-7FF2-4F8F-B971-01528570898D",
+      "overrideName": "4C829673-14E1-4EDE-96D5-10D506AE8F48_symbolID",
+      "value": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
     }
   ],
-  "overrides": {
-    "73E8EB74-AFEE-4059-9492-B661BF8764D8": {
-      "symbolID": "444CA5CB-AD1B-468B-B9EE-344A24FB8347"
-    }
-  },
   "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,

@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EF098052-FABB-4C7B-8854-9D8390DF62B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B96A2F60-6AC6-4262-874E-CD62410D34C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8EF8AD41-C4C5-4B91-9467-723F8DE4F4AD",
+    "height": 44,
+    "width": 180,
+    "x": 195,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Right Accessory",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 38,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A93BEE8-F701-49D3-A9B9-39B117F24964",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "91F286BA-9448-424B-B17F-2110EBFA3926",
+  "verticalSpacing": 0
+}

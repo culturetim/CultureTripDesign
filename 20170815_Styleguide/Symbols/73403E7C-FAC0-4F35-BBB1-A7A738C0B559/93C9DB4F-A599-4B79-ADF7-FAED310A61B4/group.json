@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "93C9DB4F-A599-4B79-ADF7-FAED310A61B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D64246B-A38E-437D-91FB-E9F2A02553EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC6F2453-CBED-4DB6-86D1-3DFB4BCF0343",
+    "height": 421,
+    "width": 720,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0C88396D-3F7A-4FA9-B9D7-82FEE0E7B6A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F14DDB4F-70C5-48F8-8BE2-88D1EFEE85EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1FFAF7B-45E8-4386-937B-1704DC1FFB80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79F9E190-4455-4F19-91F0-E1197B12E40D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "125A68B5-7855-42FE-86D9-9343E0090603"
+    }
+  ],
+  "name": "Item / Image Carousel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E4CE72B-8354-4E1A-A3D0-608E0E2BF5A9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

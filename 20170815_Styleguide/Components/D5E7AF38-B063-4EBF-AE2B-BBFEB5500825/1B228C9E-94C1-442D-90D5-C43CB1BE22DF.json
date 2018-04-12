@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1B228C9E-94C1-442D-90D5-C43CB1BE22DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E87AE659-2634-4307-BDBC-3972D2A98528",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "213618F9-05D3-4FB4-A22D-51A02061E742",
+    "height": 100,
+    "width": 300,
+    "x": 348,
+    "y": 10
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "2️⃣ Card",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C4FAC76-E1B5-40F4-AED7-CAC0DE3660AB",
+      "overrideName": "D2F22C66-05DE-4ED0-AD38-9B0A47CC762A_stringValue",
+      "value": "Arc de Triomphe"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "063C24A0-10A5-4125-857E-645C854A9AA3",
+      "overrideName": "F4A18AD6-98BC-41A1-9BFF-EE9F6241D505_stringValue",
+      "value": "Place Charles de Gaulle, 75008..."
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "325A0512-D1CE-4824-AA50-753FFC1E830C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F3F23981-8764-40A0-A948-6EA4C42F78D8",
+  "verticalSpacing": 0
+}

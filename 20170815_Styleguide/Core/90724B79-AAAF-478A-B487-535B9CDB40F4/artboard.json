@@ -37,16 +37,17 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "B2B32787-8944-4A81-BACF-445B9511E643"
     }
   ],
-  "name": "Artboard",
+  "name": "typography",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,

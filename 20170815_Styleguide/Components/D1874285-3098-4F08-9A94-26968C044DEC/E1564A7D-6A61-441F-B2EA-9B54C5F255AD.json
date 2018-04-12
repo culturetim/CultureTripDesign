@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 82,
+    "height": 149,
     "width": 473,
     "x": 0,
-    "y": 233
+    "y": 170
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,17 +24,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
-  "name": "3️⃣ Body",
+  "name": "Data",
   "nameIsFixed": true,
   "overrideValues": [
   ],
-  "overrides": {
-  },
-  "resizingConstraint": 39,
+  "resizingConstraint": 34,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -45,6 +39,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "E255801D-FD4D-492F-87F4-D573DFAEA503",
+  "symbolID": "357AE930-F1B5-4558-B5F6-679AD9667890",
   "verticalSpacing": 0
 }
